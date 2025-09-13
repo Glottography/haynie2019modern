@@ -1,423 +1,423 @@
-id,name,glottocode,year,map_name_full,note
-1,Acaxee,cahi1243,Time of European Contact,Fig. 1,
-2,Achumawi,achu1247,Time of European Contact,Fig. 1,
-3,Acoma,west2632,Time of European Contact,Fig. 1,
-4,Adai,adai1235,Time of European Contact,Fig. 1,
-5,Ahtna,ahte1237,Time of European Contact,Fig. 1,
-6,Ais,,Time of European Contact,Fig. 1,
-7,Akimel O'odham,akim1239,Time of European Contact,Fig. 1,
-8,Alabama,alab1237,Time of European Contact,Fig. 1,
-9,Alafay,,Time of European Contact,Fig. 1,
-10,Aleut,aleu1260,Time of European Contact,Fig. 1,
-11,Algonquin,algo1255,Time of European Contact,Fig. 1,
-12,Amuzgoan,amuz1254,Time of European Contact,Fig. 1,
-13,Apalachee,apal1237,Time of European Contact,Fig. 1,
-14,Aranama,aran1265,Time of European Contact,Fig. 1,
-15,Arapaho,arap1274,Time of European Contact,Fig. 1,
-16,Arikara,arik1262,Time of European Contact,Fig. 1,
-17,Assiniboine,assi1247,Time of European Contact,Fig. 1,
-18,Atakapa,atak1252,Time of European Contact,Fig. 1,
-19,Atikamekw,atik1240,Time of European Contact,Fig. 1,
-20,Atsugewi,atsu1245,Time of European Contact,Fig. 1,
-21,Atzingo Matlatzinca,atzi1235,Time of European Contact,Fig. 1,
-22,Avoyel,,Time of European Contact,Fig. 1,
-23,Babine,babi1235,Time of European Contact,Fig. 1,
-24,Barbareño,barb1263,Time of European Contact,Fig. 1,
-25,Beaver,beav1236,Time of European Contact,Fig. 1,
-26,Bella Coola,bell1243,Time of European Contact,Fig. 1,
-27,Bidai,bida1238,Time of European Contact,Fig. 1,
-28,Biloxi,bilo1248,Time of European Contact,Fig. 1,
-29,Boruca,boru1252,Time of European Contact,Fig. 1,
-30,Bribri,brib1243,Time of European Contact,Fig. 1,
-31,Buena Vista Yokuts,buen1244,Time of European Contact,Fig. 1,
-32,Buglere,bugl1243,Time of European Contact,Fig. 1,
-33,Cabécar,cabe1245,Time of European Contact,Fig. 1,
-34,Cacaopera,caca1247,Time of European Contact,Fig. 1,
-35,Caddo,cadd1256,Time of European Contact,Fig. 1,
-36,Cahuilla,cahu1264,Time of European Contact,Fig. 1,
-37,Calusa,calu1239,Time of European Contact,Fig. 1,
-38,Carizo,,Time of European Contact,Fig. 1,
-39,Carolina Algonquian,caro1243,Time of European Contact,Fig. 1,
-40,Carrier,carr1249,Time of European Contact,Fig. 1,
-41,Catawba,cata1286,Time of European Contact,Fig. 1,
-42,Cayuse,cayu1241,Time of European Contact,Fig. 1,
-43,Central Alaskan Yupik,cent2127,Time of European Contact,Fig. 1,
-44,Central Baja Mixtec,cent2266,Time of European Contact,Fig. 1,
-45,Central Core Zapotec,cent2146,Time of European Contact,Fig. 1,
-46,Central Mazahua,cent2144,Time of European Contact,Fig. 1,
-47,Central Nahuatl,cent2258,Time of European Contact,Fig. 1,
-48,Central Sierra Miwok,cent2140,Time of European Contact,Fig. 1,
-49,Central Southern Ojibwa,chip1241,Time of European Contact,Fig. 1,
-50,Chacato,,Time of European Contact,Fig. 1,
-51,Chatino,chat1268,Time of European Contact,Fig. 1,
-52,Chemakum,chim1310,Time of European Contact,Fig. 1,
-53,Cherokee,cher1273,Time of European Contact,Fig. 1,
-54,Cheyenne,chey1247,Time of European Contact,Fig. 1,
-55,Chiapanec,chia1262,Time of European Contact,Fig. 1,
-56,Chiapas Zoque,chia1261,Time of European Contact,Fig. 1,
-57,Chickasaw,chic1270,Time of European Contact,Fig. 1,
-58,Chicomuceltec,chic1271,Time of European Contact,Fig. 1,
-59,Chilcotin,chil1280,Time of European Contact,Fig. 1,
-60,Chinantecan,chin1484,Time of European Contact,Fig. 1,
-61,Chipewyan,chip1261,Time of European Contact,Fig. 1,
-62,Chisca,,Time of European Contact,Fig. 1,
-63,Chitimacha,chit1248,Time of European Contact,Fig. 1,
-64,Chochotec,choc1279,Time of European Contact,Fig. 1,
-65,Choctaw,choc1276,Time of European Contact,Fig. 1,
-66,Chol,chol1282,Time of European Contact,Fig. 1,
-67,Cholti,chol1283,Time of European Contact,Fig. 1,
-68,Chortí,chor1273,Time of European Contact,Fig. 1,
-69,Chuj,chuj1250,Time of European Contact,Fig. 1,
-70,Chumbia,,Time of European Contact,Fig. 1,
-71,Clallam,clal1241,Time of European Contact,Fig. 1,
-72,Clatskanie-Kwalhioqua,kwal1258,Time of European Contact,Fig. 1,
-73,Coahuilteco,coah1252,Time of European Contact,Fig. 1,
-74,Coast Miwok,coas1301,Time of European Contact,Fig. 1,
-75,Coast Tsimshian,coas1300,Time of European Contact,Fig. 1,
-76,Coatepec Nahuatl,coat1240,Time of European Contact,Fig. 1,
-77,Coca,,Time of European Contact,Fig. 1,
-78,Cochimi,coch1272,Time of European Contact,Fig. 1,
-79,Cocopa,coco1261,Time of European Contact,Fig. 1,
-80,Coeur d' Alene,coeu1236,Time of European Contact,Fig. 1,
-81,Columbia-Wenatchi,colu1241,Time of European Contact,Fig. 1,
-82,Comanche,coma1245,Time of European Contact,Fig. 1,
-83,Comanito,,Time of European Contact,Fig. 1,
-84,Comecrudan,come1251,Time of European Contact,Fig. 1,
-85,Comox,como1259,Time of European Contact,Fig. 1,
-86,Concho,conc1237,Time of European Contact,Fig. 1,
-87,Cora,cora1260,Time of European Contact,Fig. 1,
-88,Cotoname,coto1248,Time of European Contact,Fig. 1,
-89,Cowlitz,cowl1242,Time of European Contact,Fig. 1,
-90,Creek,cree1270,Time of European Contact,Fig. 1,
-91,Crow,crow1244,Time of European Contact,Fig. 1,
-92,Cuicatec,cuic1234,Time of European Contact,Fig. 1,
-93,Cuitlatec,cuit1236,Time of European Contact,Fig. 1,
-94,Cusabo,cusa1237,Time of European Contact,Fig. 1,
-95,Dakota,dako1258,Time of European Contact,Fig. 1,
-96,Degexit'an,dege1248,Time of European Contact,Fig. 1,
-97,Ditidaht,diti1235,Time of European Contact,Fig. 1,
-98,Dogrib,dogr1252,Time of European Contact,Fig. 1,
-99,Dorasque,dora1242,Time of European Contact,Fig. 1,
-100,East Cree,nort1552,Time of European Contact,Fig. 1,
-101,Eastern Abenaki,east2544,Time of European Contact,Fig. 1,
-102,Eastern Canadian Inuktitut,east2534,Time of European Contact,Fig. 1,
-103,Eastern Durango Nahuatl,east2695,Time of European Contact,Fig. 1,
-104,Eastern Highland Otomi,east2556,Time of European Contact,Fig. 1,
-105,Eastern Keres,east1472,Time of European Contact,Fig. 1,
-106,Eastern Nahuatl,east2720,Time of European Contact,Fig. 1,
-107,Eastern Ojibwa,east2542,Time of European Contact,Fig. 1,
-108,Eastern Pomo,east2545,Time of European Contact,Fig. 1,
-109,Eel River Athabaskan,wail1244,Time of European Contact,Fig. 1,
-110,Esselen,esse1238,Time of European Contact,Fig. 1,
-111,Eudeve,eude1234,Time of European Contact,Fig. 1,
-112,Eyak,eyak1241,Time of European Contact,Fig. 1,
-113,Eyeish,,Time of European Contact,Fig. 1,
-114,Fox,mesk1242,Time of European Contact,Fig. 1,
-115,Galice,gali1261,Time of European Contact,Fig. 1,
-116,Gros Ventre,gros1243,Time of European Contact,Fig. 1,
-117,Guachichil,,Time of European Contact,Fig. 1,
-118,Guaicura,guai1237,Time of European Contact,Fig. 1,
-119,Guale,gual1239,Time of European Contact,Fig. 1,
-120,Guarijio,huar1255,Time of European Contact,Fig. 1,
-121,Guasave,,Time of European Contact,Fig. 1,
-122,Guazoco-Tocaste,,Time of European Contact,Fig. 1,
-123,Gwich'in,gwic1235,Time of European Contact,Fig. 1,
-124,Haida,haid1248,Time of European Contact,Fig. 1,
-125,Haisla,hais1244,Time of European Contact,Fig. 1,
-126,Halkomelem,halk1245,Time of European Contact,Fig. 1,
-127,Han,hann1241,Time of European Contact,Fig. 1,
-128,Havasupai-Walapai-Yavapai,hava1248,Time of European Contact,Fig. 1,
-129,Heiltsuk-Oowekyala,heil1246,Time of European Contact,Fig. 1,
-130,Hidatsa,hida1246,Time of European Contact,Fig. 1,
-131,Highland Zoque,zoqu1261,Time of European Contact,Fig. 1,
-132,Ho-Chunk,hoch1243,Time of European Contact,Fig. 1,
-133,Holikachuk,holi1241,Time of European Contact,Fig. 1,
-134,Hopi,hopi1249,Time of European Contact,Fig. 1,
-135,Houma,,Time of European Contact,Fig. 1,
-136,Huastec,huas1242,Time of European Contact,Fig. 1,
-137,Huavean,huav1256,Time of European Contact,Fig. 1,
-138,Huichol,huic1243,Time of European Contact,Fig. 1,
-139,Huite,opat1247,Time of European Contact,Fig. 1,
-140,Hupa,hupa1239,Time of European Contact,Fig. 1,
-141,Huron,wyan1247,Time of European Contact,Fig. 1,
-142,Ineseño,ines1240,Time of European Contact,Fig. 1,
-143,Interior Chumash,cent2139,Time of European Contact,Fig. 1,
-144,Iowa-Otoe,iowa1245,Time of European Contact,Fig. 1,
-145,Ipai,ipai1240,Time of European Contact,Fig. 1,
-146,Island Chumash,cruz1243,Time of European Contact,Fig. 1,
-147,Itzá,itza1241,Time of European Contact,Fig. 1,
-148,Ixil,ixil1251,Time of European Contact,Fig. 1,
-149,Ixtenco Otomi,ixte1237,Time of European Contact,Fig. 1,
-150,Jaega,,Time of European Contact,Fig. 1,
-151,Jalisco Otomi,otom1300,Time of European Contact,Fig. 1,
-152,Jicarilla,jica1244,Time of European Contact,Fig. 1,
-153,Jumano,juma1248,Time of European Contact,Fig. 1,
-154,K'iche',kich1262,Time of European Contact,Fig. 1,
-155,Kalapuya,kala1400,Time of European Contact,Fig. 1,
-156,Kalispel,kali1309,Time of European Contact,Fig. 1,
-157,Kansa,kans1243,Time of European Contact,Fig. 1,
-158,Kaqchikel,kaqc1270,Time of European Contact,Fig. 1,
-159,Karankawa,kara1289,Time of European Contact,Fig. 1,
-160,Karkin,kark1259,Time of European Contact,Fig. 1,
-161,Karuk,karo1304,Time of European Contact,Fig. 1,
-162,Kaska,kask1239,Time of European Contact,Fig. 1,
-163,Kaskan,,Time of European Contact,Fig. 1,
-164,Kathalmet,kath1253,Time of European Contact,Fig. 1,
-165,Kato,kato1244,Time of European Contact,Fig. 1,
-166,"Kawaiisu",kawa1283,Time of European Contact,Fig. 1,
-167,Kekchí,kekc1242,Time of European Contact,Fig. 1,
-168,Kickapoo,kick1244,Time of European Contact,Fig. 1,
-169,Kiliwa,kili1268,Time of European Contact,Fig. 1,
-170,Kiowa,kiow1266,Time of European Contact,Fig. 1,
-171,Kiowa Apache,kiow1264,Time of European Contact,Fig. 1,
-172,Kitsai,kits1249,Time of European Contact,Fig. 1,
-173,Klamath-Modoc,klam1254,Time of European Contact,Fig. 1,
-174,Koasati,koas1236,Time of European Contact,Fig. 1,
-175,Konkow,nort2951,Time of European Contact,Fig. 1,
-176,Konomihu,kono1241,Time of European Contact,Fig. 1,
-177,Koyukon,koyu1237,Time of European Contact,Fig. 1,
-178,Kuna,sanb1242,Time of European Contact,Fig. 1,
-179,Kwak'wala,kwak1269,Time of European Contact,Fig. 1,
-180,Lagunero,,Time of European Contact,Fig. 1,
-181,Lakota,lako1247,Time of European Contact,Fig. 1,
-182,Laurentian,laur1250,Time of European Contact,Fig. 1,
-183,Lenca Honduras,lenc1242,Time of European Contact,Fig. 1,
-184,Lenca Salvador,lenc1243,Time of European Contact,Fig. 1,
-185,Lillooet,lill1248,Time of European Contact,Fig. 1,
-186,Lipan,lipa1241,Time of European Contact,Fig. 1,
-187,Loup,loup1243,Time of European Contact,Fig. 1,
-188,Lower Chehalis,lowe1427,Time of European Contact,Fig. 1,
-189,Lower Chinook,chin1286,Time of European Contact,Fig. 1,
-190,Lower Tanana,lowe1425,Time of European Contact,Fig. 1,
-191,Lowland Oaxaca Chontal,lowl1260,Time of European Contact,Fig. 1,
-192,Luiseño,luis1253,Time of European Contact,Fig. 1,
-193,Lushootseed,lush1252,Time of European Contact,Fig. 1,
-194,Mahican,mahi1248,Time of European Contact,Fig. 1,
-195,Maidu,nort2952,Time of European Contact,Fig. 1,
-196,Makah,maka1318,Time of European Contact,Fig. 1,
-197,Malicite-Passamaquoddy,male1292,Time of European Contact,Fig. 1,
-198,Maléku Jaíka,male1297,Time of European Contact,Fig. 1,
-199,Mam,mamm1241,Time of European Contact,Fig. 1,
-200,Mandan,mand1446,Time of European Contact,Fig. 1,
-201,Mangue,moni1237,Time of European Contact,Fig. 1,
-202,Maratino,mara1266,Time of European Contact,Fig. 1,
-203,Maricopa,mari1440,Time of European Contact,Fig. 1,
-204,Matagalpa,mata1288,Time of European Contact,Fig. 1,
-205,Mattole,matt1238,Time of European Contact,Fig. 1,
-206,Mayo,mayo1264,Time of European Contact,Fig. 1,
-207,Meherrin,mehe1242,Time of European Contact,Fig. 1,
-208,Menominee,meno1252,Time of European Contact,Fig. 1,
-209,Mephaa,meph1234,Time of European Contact,Fig. 1,
-210,Mescalero-Chiricahua,mesc1238,Time of European Contact,Fig. 1,
-211,Mezquital Otomi,mezq1235,Time of European Contact,Fig. 1,
-212,Miami,nucl1653,Time of European Contact,Fig. 1,
-213,Michoacán Nahuatl,mich1245,Time of European Contact,Fig. 1,
-214,Micmac,mikm1235,Time of European Contact,Fig. 1,
-215,Mikasuki,mika1239,Time of European Contact,Fig. 1,
-216,"Mohawk",moha1258,Time of European Contact,Fig. 1,
-217,Mohegan-Pequot-Narragansett,mohe1244,Time of European Contact,Fig. 1,
-218,Mojave,moha1256,Time of European Contact,Fig. 1,
-219,Molala,mola1238,Time of European Contact,Fig. 1,
-220,Mono,mono1275,Time of European Contact,Fig. 1,
-221,Montagnais,mont1268,Time of European Contact,Fig. 1,
-222,Mopán Maya,mopa1243,Time of European Contact,Fig. 1,
-223,Munsee Delaware,muns1251,Time of European Contact,Fig. 1,
-224,Mískito,misk1235,Time of European Contact,Fig. 1,
-225,Nanticoke-Conoy,nant1249,Time of European Contact,Fig. 1,
-226,Naolan,naol1234,Time of European Contact,Fig. 1,
-227,Naskapi,nask1242,Time of European Contact,Fig. 1,
-228,Nass-Gitksan,gitx1241,Time of European Contact,Fig. 1,
-229,Navajo,nava1243,Time of European Contact,Fig. 1,
-230,Nawathinehena,nawa1259,Time of European Contact,Fig. 1,
-231,Neutral Iroquoian,nort2947,Time of European Contact,Fig. 1,
-232,Nez Perce,nezp1238,Time of European Contact,Fig. 1,
-233,Ngäbere,ngab1239,Time of European Contact,Fig. 1,
-234,Nicola,nico1265,Time of European Contact,Fig. 1,
-235,Nisenan,nise1244,Time of European Contact,Fig. 1,
-236,Nooksack,nook1247,Time of European Contact,Fig. 1,
-237,North Alaskan Inupiatun,nort2943,Time of European Contact,Fig. 1,
-238,North Slavey,nort2942,Time of European Contact,Fig. 1,
-239,Northeastern Pomo,nort2967,Time of European Contact,Fig. 1,
-240,"NorthernPaiute",nort2954,Time of European Contact,Fig. 1,
-241,Northern Alta Mixtec,nort3199,Time of European Contact,Fig. 1,
-242,Northern Baja Mixtec,nort3200,Time of European Contact,Fig. 1,
-243,Northern Core Zapotec,nort2987,Time of European Contact,Fig. 1,
-244,Northern Ohlone,nort2969,Time of European Contact,Fig. 1,
-245,Northern Pomo,nort2966,Time of European Contact,Fig. 1,
-246,Northern Popolocan,popo1294,Time of European Contact,Fig. 1,
-247,Northern Puebla Nahuatl,nort2957,Time of European Contact,Fig. 1,
-248,Northern Sierra Miwok,nort2968,Time of European Contact,Fig. 1,
-249,Northern Straits,stra1244,Time of European Contact,Fig. 1,
-250,Northern Tepehuan,nort2959,Time of European Contact,Fig. 1,
-251,Northern Tutchone,nort2941,Time of European Contact,Fig. 1,
-252,Northern Yokuts,yoku1256,Time of European Contact,Fig. 1,
-253,Northern Yukian,yuki1243,Time of European Contact,Fig. 1,
-254,Nottoway,nott1246,Time of European Contact,Fig. 1,
-255,Nuu-chah-nulth,nuuc1236,Time of European Contact,Fig. 1,
-256,Oaxaca Mixe,oaxa1241,Time of European Contact,Fig. 1,
-257,Obispeño,obis1242,Time of European Contact,Fig. 1,
-258,Ofo,ofoo1242,Time of European Contact,Fig. 1,
-259,Okanagan,okan1243,Time of European Contact,Fig. 1,
-260,Oluta Popoluca,olut1240,Time of European Contact,Fig. 1,
-261,"Omaha-Ponca",omah1247,Time of European Contact,Fig. 1,
-262,Oneida,onei1249,Time of European Contact,Fig. 1,
-263,Onondaga,onon1246,Time of European Contact,Fig. 1,
-264,Opata,opat1246,Time of European Contact,Fig. 1,
-265,Opelousa,,Time of European Contact,Fig. 1,
-266,Osage,osag1243,Time of European Contact,Fig. 1,
-267,Otomian,otom1297,Time of European Contact,Fig. 1,
-268,Ottawa,otta1242,Time of European Contact,Fig. 1,
-269,Pacific Gulf Yupik,paci1278,Time of European Contact,Fig. 1,
-270,Paipai,paip1241,Time of European Contact,Fig. 1,
-271,Pakana,,Time of European Contact,Fig. 1,
-272,Palewyami Yokuts,pale1254,Time of European Contact,Fig. 1,
-273,Pame,nort2984,Time of European Contact,Fig. 1,
-274,Panamint,pana1305,Time of European Contact,Fig. 1,
-275,Patwin,patw1250,Time of European Contact,Fig. 1,
-276,Pawnee,pawn1254,Time of European Contact,Fig. 1,
-277,Pech,pech1241,Time of European Contact,Fig. 1,
-278,Pensacola,,Time of European Contact,Fig. 1,
-279,Pentlach,pent1242,Time of European Contact,Fig. 1,
-280,Pericú,peri1250,Time of European Contact,Fig. 1,
-281,Pima Bajo,pima1248,Time of European Contact,Fig. 1,
-282,Pinome,,Time of European Contact,Fig. 1,
-283,Pipil,pipi1250,Time of European Contact,Fig. 1,
-284,Piro,piro1248,Time of European Contact,Fig. 1,
-285,Plains Cree,plai1258,Time of European Contact,Fig. 1,
-286,Plains Miwok,plai1259,Time of European Contact,Fig. 1,
-287,Pochutec,poch1244,Time of European Contact,Fig. 1,
-288,Poqom,poco1241,Time of European Contact,Fig. 1,
-289,Potawatomi,pota1247,Time of European Contact,Fig. 1,
-290,Powhatan,powh1243,Time of European Contact,Fig. 1,
-291,Purepecha,pure1242,Time of European Contact,Fig. 1,
-292,Purismeño,puri1259,Time of European Contact,Fig. 1,
-293,Q'anjob'al,qanj1241,Time of European Contact,Fig. 1,
-294,Quapaw,quap1242,Time of European Contact,Fig. 1,
-295,Quechan,quec1382,Time of European Contact,Fig. 1,
-296,Querétaro Otomi,quer1236,Time of European Contact,Fig. 1,
-297,Quileute,quil1240,Time of European Contact,Fig. 1,
-298,Quinault,quin1251,Time of European Contact,Fig. 1,
-299,Quinigua,quin1252,Time of European Contact,Fig. 1,
-300,Quiripi,wamp1250,Time of European Contact,Fig. 1,
-301,Rama,rama1270,Time of European Contact,Fig. 1,
-302,Rio Grande Tewa,tewa1260,Time of European Contact,Fig. 1,
-303,Rogue River Athabaskan,tolo1259,Time of European Contact,Fig. 1,
-304,Sahaptin-Walla Walla,wall1238,Time of European Contact,Fig. 1,
-305,Salinan,sali1253,Time of European Contact,Fig. 1,
-306,Salteaux,west1510,Time of European Contact,Fig. 1,
-307,San Francisco Matlatzinca,sanf1262,Time of European Contact,Fig. 1,
-308,Sarcee,sars1236,Time of European Contact,Fig. 1,
-309,Sayula Popoluca,sayu1241,Time of European Contact,Fig. 1,
-310,Sechelt,sech1246,Time of European Contact,Fig. 1,
-311,Sekani,seka1250,Time of European Contact,Fig. 1,
-312,Seneca,sene1264,Time of European Contact,Fig. 1,
-313,Seri,seri1257,Time of European Contact,Fig. 1,
-314,Serrano,serr1255,Time of European Contact,Fig. 1,
-315,Severn Ojibwa,seve1240,Time of European Contact,Fig. 1,
-316,Seward Peninsula Inupiatun,nort2945,Time of European Contact,Fig. 1,
-317,Shawnee,shaw1249,Time of European Contact,Fig. 1,
-318,Shoshoni,,Time of European Contact,Fig. 1,
-319,Shuswap,shus1248,Time of European Contact,Fig. 1,
-320,Siksika,siks1238,Time of European Contact,Fig. 1,
-321,Sipacapense,sipa1247,Time of European Contact,Fig. 1,
-322,Siuslaw,sius1254,Time of European Contact,Fig. 1,
-323,Slavey,sout2959,Time of European Contact,Fig. 1,
-324,Solano,sanf1266,Time of European Contact,Fig. 1,
-325,Southern Baja Mixtec,mixt1427,Time of European Contact,Fig. 1,
-326,Southern Core Zapotec,sout3003,Time of European Contact,Fig. 1,
-327,Southern Ohlone,sout2986,Time of European Contact,Fig. 1,
-328,Southern Pomo,sout2984,Time of European Contact,Fig. 1,
-329,Southern Sierra Miwok ,sout2985,Time of European Contact,Fig. 1,
-330,Southern Tepehuan,sout2977,Time of European Contact,Fig. 1,
-331,Southern Tiwa,sout2961,Time of European Contact,Fig. 1,
-332,Southern Tutchone,sout2957,Time of European Contact,Fig. 1,
-333,Spokane,spok1245,Time of European Contact,Fig. 1,
-334,Squamish,squa1248,Time of European Contact,Fig. 1,
-335,Stoney,ston1242,Time of European Contact,Fig. 1,
-336,Subtiaba,subt1250,Time of European Contact,Fig. 1,
-337,Susquehannock,susq1241,Time of European Contact,Fig. 1,
-338,Swampy Cree,swam1239,Time of European Contact,Fig. 1,
-339,Tabasco Chontal,taba1266,Time of European Contact,Fig. 1,
-340,Tagish,tagi1240,Time of European Contact,Fig. 1,
-341,Tahltan,tahl1239,Time of European Contact,Fig. 1,
-342,Tahue,,Time of European Contact,Fig. 1,
-343,Takelma,take1257,Time of European Contact,Fig. 1,
-344,Tanacross,tana1290,Time of European Contact,Fig. 1,
-345,Tanaina,tana1289,Time of European Contact,Fig. 1,
-346,Taos,nort1550,Time of European Contact,Fig. 1,
-347,Tapachultec,tapa1260,Time of European Contact,Fig. 1,
-348,Tarahumara,tara1321,Time of European Contact,Fig. 1,
-349,Tataviam,serr1254,Time of European Contact,Fig. 1,
-350,Tawasa,timu1245,Time of European Contact,Fig. 1,
-351,Tecoxquin,,Time of European Contact,Fig. 1,
-352,Tektiteko,tekt1235,Time of European Contact,Fig. 1,
-353,Tekwexe,,Time of European Contact,Fig. 1,
-354,Temori,,Time of European Contact,Fig. 1,
-355,Tenino,teni1238,Time of European Contact,Fig. 1,
-356,Tepecano,tepe1278,Time of European Contact,Fig. 1,
-357,Tepehua,tepe1243,Time of European Contact,Fig. 1,
-358,Tequesta,,Time of European Contact,Fig. 1,
-359,Teribe,teri1250,Time of European Contact,Fig. 1,
-360,Texistepec Popoluca,texi1237,Time of European Contact,Fig. 1,
-361,Tilapa Otomi,tila1239,Time of European Contact,Fig. 1,
-362,Tillamook,till1254,Time of European Contact,Fig. 1,
-363,Tipai,kumi1248,Time of European Contact,Fig. 1,
-364,Tlingit,tlin1245,Time of European Contact,Fig. 1,
-365,Toboso,,Time of European Contact,Fig. 1,
-366,Tocobaga,,Time of European Contact,Fig. 1,
-367,Tohono O'odham,toho1245,Time of European Contact,Fig. 1,
-368,Tojolabal,tojo1241,Time of European Contact,Fig. 1,
-369,Tol,toll1241,Time of European Contact,Fig. 1,
-370,Tolimeco,,Time of European Contact,Fig. 1,
-371,Tongva,tong1329,Time of European Contact,Fig. 1,
-372,Tonkawa,tonk1249,Time of European Contact,Fig. 1,
-373,Totonac,toto1252,Time of European Contact,Fig. 1,
-374,Totorame,,Time of European Contact,Fig. 1,
-375,Towa,jeme1245,Time of European Contact,Fig. 1,
-376,Trique,triq1251,Time of European Contact,Fig. 1,
-377,Tsetsaut,tset1236,Time of European Contact,Fig. 1,
-378,Tubatulabal,tuba1278,Time of European Contact,Fig. 1,
-379,Tule-Kaweah Yokuts,tule1245,Time of European Contact,Fig. 1,
-380,Tunica,tuni1252,Time of European Contact,Fig. 1,
-381,"Tuscarora",tusc1257,Time of European Contact,Fig. 1,
-382,Tutelo-Saponi,tute1247,Time of European Contact,Fig. 1,
-383,Twana,twan1247,Time of European Contact,Fig. 1,
-384,Tz'utujil,tzut1248,Time of European Contact,Fig. 1,
-385,Tzeltal,tzel1254,Time of European Contact,Fig. 1,
-386,Tzotzil,tzot1259,Time of European Contact,Fig. 1,
-387,Ulwa,ulwa1239,Time of European Contact,Fig. 1,
-388,Umatilla,umat1237,Time of European Contact,Fig. 1,
-389,Unami Delaware,unam1242,Time of European Contact,Fig. 1,
-390,Upper Chehalis,uppe1439,Time of European Contact,Fig. 1,
-391,Upper Kuskokwim,uppe1438,Time of European Contact,Fig. 1,
-392,Upper Tanana,uppe1437,Time of European Contact,Fig. 1,
-393,Upper Umpqua,uppe1436,Time of European Contact,Fig. 1,
-394,Uspanteco,uspa1245,Time of European Contact,Fig. 1,
-395,Ute-Southern Paiute,utes1238,Time of European Contact,Fig. 1,
-396,Ventureño,vent1242,Time of European Contact,Fig. 1,
-397,Wampanoag,wamp1249,Time of European Contact,Fig. 1,
-398,Wappo,wapp1239,Time of European Contact,Fig. 1,
-399,Wasco,wasc1239,Time of European Contact,Fig. 1,
-400,Washo,wash1253,Time of European Contact,Fig. 1,
-401,Wenro,wenr1236,Time of European Contact,Fig. 1,
-402,Western Abenaki,west2630,Time of European Contact,Fig. 1,
-403,Western Apache,west2615,Time of European Contact,Fig. 1,
-404,Western Canadian Inuktitut,west2618,Time of European Contact,Fig. 1,
-405,Western Durango Nahuatl,west2778,Time of European Contact,Fig. 1,
-406,Western Zapotec,west2645,Time of European Contact,Fig. 1,
-407,Wichita,wich1260,Time of European Contact,Fig. 1,
-408,Wintu,wint1259,Time of European Contact,Fig. 1,
-409,Wiyot,wiyo1248,Time of European Contact,Fig. 1,
-410,Woccon,wocc1242,Time of European Contact,Fig. 1,
-411,Woods Cree,wood1236,Time of European Contact,Fig. 1,
-412,Xinca,xinc1237,Time of European Contact,Fig. 1,
-413,Xixime,,Time of European Contact,Fig. 1,
-414,Yakama,yaki1237,Time of European Contact,Fig. 1,
-415,Yamasee,yama1265,Time of European Contact,Fig. 1,
-416,Yana,yana1271,Time of European Contact,Fig. 1,
-417,Yaqui,yaqu1251,Time of European Contact,Fig. 1,
-418,Yucatec Maya,yuca1254,Time of European Contact,Fig. 1,
-419,Yuchi,yuch1247,Time of European Contact,Fig. 1,
-420,Yurok,yuro1248,Time of European Contact,Fig. 1,
-421,Zacateco,,Time of European Contact,Fig. 1,
-422,Zuni,zuni1245,Time of European Contact,Fig. 1,
+id,name,glottocode,year,map_name_full,note,year_comment
+1,Acaxee,cahi1243,traditional,Fig. 1,,Time of European Contact
+2,Achumawi,achu1247,traditional,Fig. 1,,Time of European Contact
+3,Acoma,west2632,traditional,Fig. 1,,Time of European Contact
+4,Adai,adai1235,traditional,Fig. 1,,Time of European Contact
+5,Ahtna,ahte1237,traditional,Fig. 1,,Time of European Contact
+6,Ais,,traditional,Fig. 1,,Time of European Contact
+7,Akimel O'odham,akim1239,traditional,Fig. 1,,Time of European Contact
+8,Alabama,alab1237,traditional,Fig. 1,,Time of European Contact
+9,Alafay,,traditional,Fig. 1,,Time of European Contact
+10,Aleut,aleu1260,traditional,Fig. 1,,Time of European Contact
+11,Algonquin,algo1255,traditional,Fig. 1,,Time of European Contact
+12,Amuzgoan,amuz1254,traditional,Fig. 1,,Time of European Contact
+13,Apalachee,apal1237,traditional,Fig. 1,,Time of European Contact
+14,Aranama,aran1265,traditional,Fig. 1,,Time of European Contact
+15,Arapaho,arap1274,traditional,Fig. 1,,Time of European Contact
+16,Arikara,arik1262,traditional,Fig. 1,,Time of European Contact
+17,Assiniboine,assi1247,traditional,Fig. 1,,Time of European Contact
+18,Atakapa,atak1252,traditional,Fig. 1,,Time of European Contact
+19,Atikamekw,atik1240,traditional,Fig. 1,,Time of European Contact
+20,Atsugewi,atsu1245,traditional,Fig. 1,,Time of European Contact
+21,Atzingo Matlatzinca,atzi1235,traditional,Fig. 1,,Time of European Contact
+22,Avoyel,,traditional,Fig. 1,,Time of European Contact
+23,Babine,babi1235,traditional,Fig. 1,,Time of European Contact
+24,Barbareño,barb1263,traditional,Fig. 1,,Time of European Contact
+25,Beaver,beav1236,traditional,Fig. 1,,Time of European Contact
+26,Bella Coola,bell1243,traditional,Fig. 1,,Time of European Contact
+27,Bidai,bida1238,traditional,Fig. 1,,Time of European Contact
+28,Biloxi,bilo1248,traditional,Fig. 1,,Time of European Contact
+29,Boruca,boru1252,traditional,Fig. 1,,Time of European Contact
+30,Bribri,brib1243,traditional,Fig. 1,,Time of European Contact
+31,Buena Vista Yokuts,buen1244,traditional,Fig. 1,,Time of European Contact
+32,Buglere,bugl1243,traditional,Fig. 1,,Time of European Contact
+33,Cabécar,cabe1245,traditional,Fig. 1,,Time of European Contact
+34,Cacaopera,caca1247,traditional,Fig. 1,,Time of European Contact
+35,Caddo,cadd1256,traditional,Fig. 1,,Time of European Contact
+36,Cahuilla,cahu1264,traditional,Fig. 1,,Time of European Contact
+37,Calusa,calu1239,traditional,Fig. 1,,Time of European Contact
+38,Carizo,,traditional,Fig. 1,,Time of European Contact
+39,Carolina Algonquian,caro1243,traditional,Fig. 1,,Time of European Contact
+40,Carrier,carr1249,traditional,Fig. 1,,Time of European Contact
+41,Catawba,cata1286,traditional,Fig. 1,,Time of European Contact
+42,Cayuse,cayu1241,traditional,Fig. 1,,Time of European Contact
+43,Central Alaskan Yupik,cent2127,traditional,Fig. 1,,Time of European Contact
+44,Central Baja Mixtec,cent2266,traditional,Fig. 1,,Time of European Contact
+45,Central Core Zapotec,cent2146,traditional,Fig. 1,,Time of European Contact
+46,Central Mazahua,cent2144,traditional,Fig. 1,,Time of European Contact
+47,Central Nahuatl,cent2258,traditional,Fig. 1,,Time of European Contact
+48,Central Sierra Miwok,cent2140,traditional,Fig. 1,,Time of European Contact
+49,Central Southern Ojibwa,chip1241,traditional,Fig. 1,,Time of European Contact
+50,Chacato,,traditional,Fig. 1,,Time of European Contact
+51,Chatino,chat1268,traditional,Fig. 1,,Time of European Contact
+52,Chemakum,chim1310,traditional,Fig. 1,,Time of European Contact
+53,Cherokee,cher1273,traditional,Fig. 1,,Time of European Contact
+54,Cheyenne,chey1247,traditional,Fig. 1,,Time of European Contact
+55,Chiapanec,chia1262,traditional,Fig. 1,,Time of European Contact
+56,Chiapas Zoque,chia1261,traditional,Fig. 1,,Time of European Contact
+57,Chickasaw,chic1270,traditional,Fig. 1,,Time of European Contact
+58,Chicomuceltec,chic1271,traditional,Fig. 1,,Time of European Contact
+59,Chilcotin,chil1280,traditional,Fig. 1,,Time of European Contact
+60,Chinantecan,chin1484,traditional,Fig. 1,,Time of European Contact
+61,Chipewyan,chip1261,traditional,Fig. 1,,Time of European Contact
+62,Chisca,,traditional,Fig. 1,,Time of European Contact
+63,Chitimacha,chit1248,traditional,Fig. 1,,Time of European Contact
+64,Chochotec,choc1279,traditional,Fig. 1,,Time of European Contact
+65,Choctaw,choc1276,traditional,Fig. 1,,Time of European Contact
+66,Chol,chol1282,traditional,Fig. 1,,Time of European Contact
+67,Cholti,chol1283,traditional,Fig. 1,,Time of European Contact
+68,Chortí,chor1273,traditional,Fig. 1,,Time of European Contact
+69,Chuj,chuj1250,traditional,Fig. 1,,Time of European Contact
+70,Chumbia,,traditional,Fig. 1,,Time of European Contact
+71,Clallam,clal1241,traditional,Fig. 1,,Time of European Contact
+72,Clatskanie-Kwalhioqua,kwal1258,traditional,Fig. 1,,Time of European Contact
+73,Coahuilteco,coah1252,traditional,Fig. 1,,Time of European Contact
+74,Coast Miwok,coas1301,traditional,Fig. 1,,Time of European Contact
+75,Coast Tsimshian,coas1300,traditional,Fig. 1,,Time of European Contact
+76,Coatepec Nahuatl,coat1240,traditional,Fig. 1,,Time of European Contact
+77,Coca,,traditional,Fig. 1,,Time of European Contact
+78,Cochimi,coch1272,traditional,Fig. 1,,Time of European Contact
+79,Cocopa,coco1261,traditional,Fig. 1,,Time of European Contact
+80,Coeur d' Alene,coeu1236,traditional,Fig. 1,,Time of European Contact
+81,Columbia-Wenatchi,colu1241,traditional,Fig. 1,,Time of European Contact
+82,Comanche,coma1245,traditional,Fig. 1,,Time of European Contact
+83,Comanito,,traditional,Fig. 1,,Time of European Contact
+84,Comecrudan,come1251,traditional,Fig. 1,,Time of European Contact
+85,Comox,como1259,traditional,Fig. 1,,Time of European Contact
+86,Concho,conc1237,traditional,Fig. 1,,Time of European Contact
+87,Cora,cora1260,traditional,Fig. 1,,Time of European Contact
+88,Cotoname,coto1248,traditional,Fig. 1,,Time of European Contact
+89,Cowlitz,cowl1242,traditional,Fig. 1,,Time of European Contact
+90,Creek,cree1270,traditional,Fig. 1,,Time of European Contact
+91,Crow,crow1244,traditional,Fig. 1,,Time of European Contact
+92,Cuicatec,cuic1234,traditional,Fig. 1,,Time of European Contact
+93,Cuitlatec,cuit1236,traditional,Fig. 1,,Time of European Contact
+94,Cusabo,cusa1237,traditional,Fig. 1,,Time of European Contact
+95,Dakota,dako1258,traditional,Fig. 1,,Time of European Contact
+96,Degexit'an,dege1248,traditional,Fig. 1,,Time of European Contact
+97,Ditidaht,diti1235,traditional,Fig. 1,,Time of European Contact
+98,Dogrib,dogr1252,traditional,Fig. 1,,Time of European Contact
+99,Dorasque,dora1242,traditional,Fig. 1,,Time of European Contact
+100,East Cree,nort1552,traditional,Fig. 1,,Time of European Contact
+101,Eastern Abenaki,east2544,traditional,Fig. 1,,Time of European Contact
+102,Eastern Canadian Inuktitut,east2534,traditional,Fig. 1,,Time of European Contact
+103,Eastern Durango Nahuatl,east2695,traditional,Fig. 1,,Time of European Contact
+104,Eastern Highland Otomi,east2556,traditional,Fig. 1,,Time of European Contact
+105,Eastern Keres,east1472,traditional,Fig. 1,,Time of European Contact
+106,Eastern Nahuatl,east2720,traditional,Fig. 1,,Time of European Contact
+107,Eastern Ojibwa,east2542,traditional,Fig. 1,,Time of European Contact
+108,Eastern Pomo,east2545,traditional,Fig. 1,,Time of European Contact
+109,Eel River Athabaskan,wail1244,traditional,Fig. 1,,Time of European Contact
+110,Esselen,esse1238,traditional,Fig. 1,,Time of European Contact
+111,Eudeve,eude1234,traditional,Fig. 1,,Time of European Contact
+112,Eyak,eyak1241,traditional,Fig. 1,,Time of European Contact
+113,Eyeish,,traditional,Fig. 1,,Time of European Contact
+114,Fox,mesk1242,traditional,Fig. 1,,Time of European Contact
+115,Galice,gali1261,traditional,Fig. 1,,Time of European Contact
+116,Gros Ventre,gros1243,traditional,Fig. 1,,Time of European Contact
+117,Guachichil,,traditional,Fig. 1,,Time of European Contact
+118,Guaicura,guai1237,traditional,Fig. 1,,Time of European Contact
+119,Guale,gual1239,traditional,Fig. 1,,Time of European Contact
+120,Guarijio,huar1255,traditional,Fig. 1,,Time of European Contact
+121,Guasave,,traditional,Fig. 1,,Time of European Contact
+122,Guazoco-Tocaste,,traditional,Fig. 1,,Time of European Contact
+123,Gwich'in,gwic1235,traditional,Fig. 1,,Time of European Contact
+124,Haida,haid1248,traditional,Fig. 1,,Time of European Contact
+125,Haisla,hais1244,traditional,Fig. 1,,Time of European Contact
+126,Halkomelem,halk1245,traditional,Fig. 1,,Time of European Contact
+127,Han,hann1241,traditional,Fig. 1,,Time of European Contact
+128,Havasupai-Walapai-Yavapai,hava1248,traditional,Fig. 1,,Time of European Contact
+129,Heiltsuk-Oowekyala,heil1246,traditional,Fig. 1,,Time of European Contact
+130,Hidatsa,hida1246,traditional,Fig. 1,,Time of European Contact
+131,Highland Zoque,zoqu1261,traditional,Fig. 1,,Time of European Contact
+132,Ho-Chunk,hoch1243,traditional,Fig. 1,,Time of European Contact
+133,Holikachuk,holi1241,traditional,Fig. 1,,Time of European Contact
+134,Hopi,hopi1249,traditional,Fig. 1,,Time of European Contact
+135,Houma,,traditional,Fig. 1,,Time of European Contact
+136,Huastec,huas1242,traditional,Fig. 1,,Time of European Contact
+137,Huavean,huav1256,traditional,Fig. 1,,Time of European Contact
+138,Huichol,huic1243,traditional,Fig. 1,,Time of European Contact
+139,Huite,opat1247,traditional,Fig. 1,,Time of European Contact
+140,Hupa,hupa1239,traditional,Fig. 1,,Time of European Contact
+141,Huron,wyan1247,traditional,Fig. 1,,Time of European Contact
+142,Ineseño,ines1240,traditional,Fig. 1,,Time of European Contact
+143,Interior Chumash,cent2139,traditional,Fig. 1,,Time of European Contact
+144,Iowa-Otoe,iowa1245,traditional,Fig. 1,,Time of European Contact
+145,Ipai,ipai1240,traditional,Fig. 1,,Time of European Contact
+146,Island Chumash,cruz1243,traditional,Fig. 1,,Time of European Contact
+147,Itzá,itza1241,traditional,Fig. 1,,Time of European Contact
+148,Ixil,ixil1251,traditional,Fig. 1,,Time of European Contact
+149,Ixtenco Otomi,ixte1237,traditional,Fig. 1,,Time of European Contact
+150,Jaega,,traditional,Fig. 1,,Time of European Contact
+151,Jalisco Otomi,otom1300,traditional,Fig. 1,,Time of European Contact
+152,Jicarilla,jica1244,traditional,Fig. 1,,Time of European Contact
+153,Jumano,juma1248,traditional,Fig. 1,,Time of European Contact
+154,K'iche',kich1262,traditional,Fig. 1,,Time of European Contact
+155,Kalapuya,kala1400,traditional,Fig. 1,,Time of European Contact
+156,Kalispel,kali1309,traditional,Fig. 1,,Time of European Contact
+157,Kansa,kans1243,traditional,Fig. 1,,Time of European Contact
+158,Kaqchikel,kaqc1270,traditional,Fig. 1,,Time of European Contact
+159,Karankawa,kara1289,traditional,Fig. 1,,Time of European Contact
+160,Karkin,kark1259,traditional,Fig. 1,,Time of European Contact
+161,Karuk,karo1304,traditional,Fig. 1,,Time of European Contact
+162,Kaska,kask1239,traditional,Fig. 1,,Time of European Contact
+163,Kaskan,,traditional,Fig. 1,,Time of European Contact
+164,Kathalmet,kath1253,traditional,Fig. 1,,Time of European Contact
+165,Kato,kato1244,traditional,Fig. 1,,Time of European Contact
+166,"Kawaiisu",kawa1283,traditional,Fig. 1,,Time of European Contact
+167,Kekchí,kekc1242,traditional,Fig. 1,,Time of European Contact
+168,Kickapoo,kick1244,traditional,Fig. 1,,Time of European Contact
+169,Kiliwa,kili1268,traditional,Fig. 1,,Time of European Contact
+170,Kiowa,kiow1266,traditional,Fig. 1,,Time of European Contact
+171,Kiowa Apache,kiow1264,traditional,Fig. 1,,Time of European Contact
+172,Kitsai,kits1249,traditional,Fig. 1,,Time of European Contact
+173,Klamath-Modoc,klam1254,traditional,Fig. 1,,Time of European Contact
+174,Koasati,koas1236,traditional,Fig. 1,,Time of European Contact
+175,Konkow,nort2951,traditional,Fig. 1,,Time of European Contact
+176,Konomihu,kono1241,traditional,Fig. 1,,Time of European Contact
+177,Koyukon,koyu1237,traditional,Fig. 1,,Time of European Contact
+178,Kuna,sanb1242,traditional,Fig. 1,,Time of European Contact
+179,Kwak'wala,kwak1269,traditional,Fig. 1,,Time of European Contact
+180,Lagunero,,traditional,Fig. 1,,Time of European Contact
+181,Lakota,lako1247,traditional,Fig. 1,,Time of European Contact
+182,Laurentian,laur1250,traditional,Fig. 1,,Time of European Contact
+183,Lenca Honduras,lenc1242,traditional,Fig. 1,,Time of European Contact
+184,Lenca Salvador,lenc1243,traditional,Fig. 1,,Time of European Contact
+185,Lillooet,lill1248,traditional,Fig. 1,,Time of European Contact
+186,Lipan,lipa1241,traditional,Fig. 1,,Time of European Contact
+187,Loup,loup1243,traditional,Fig. 1,,Time of European Contact
+188,Lower Chehalis,lowe1427,traditional,Fig. 1,,Time of European Contact
+189,Lower Chinook,chin1286,traditional,Fig. 1,,Time of European Contact
+190,Lower Tanana,lowe1425,traditional,Fig. 1,,Time of European Contact
+191,Lowland Oaxaca Chontal,lowl1260,traditional,Fig. 1,,Time of European Contact
+192,Luiseño,luis1253,traditional,Fig. 1,,Time of European Contact
+193,Lushootseed,lush1252,traditional,Fig. 1,,Time of European Contact
+194,Mahican,mahi1248,traditional,Fig. 1,,Time of European Contact
+195,Maidu,nort2952,traditional,Fig. 1,,Time of European Contact
+196,Makah,maka1318,traditional,Fig. 1,,Time of European Contact
+197,Malicite-Passamaquoddy,male1292,traditional,Fig. 1,,Time of European Contact
+198,Maléku Jaíka,male1297,traditional,Fig. 1,,Time of European Contact
+199,Mam,mamm1241,traditional,Fig. 1,,Time of European Contact
+200,Mandan,mand1446,traditional,Fig. 1,,Time of European Contact
+201,Mangue,moni1237,traditional,Fig. 1,,Time of European Contact
+202,Maratino,mara1266,traditional,Fig. 1,,Time of European Contact
+203,Maricopa,mari1440,traditional,Fig. 1,,Time of European Contact
+204,Matagalpa,mata1288,traditional,Fig. 1,,Time of European Contact
+205,Mattole,matt1238,traditional,Fig. 1,,Time of European Contact
+206,Mayo,mayo1264,traditional,Fig. 1,,Time of European Contact
+207,Meherrin,mehe1242,traditional,Fig. 1,,Time of European Contact
+208,Menominee,meno1252,traditional,Fig. 1,,Time of European Contact
+209,Mephaa,meph1234,traditional,Fig. 1,,Time of European Contact
+210,Mescalero-Chiricahua,mesc1238,traditional,Fig. 1,,Time of European Contact
+211,Mezquital Otomi,mezq1235,traditional,Fig. 1,,Time of European Contact
+212,Miami,nucl1653,traditional,Fig. 1,,Time of European Contact
+213,Michoacán Nahuatl,mich1245,traditional,Fig. 1,,Time of European Contact
+214,Micmac,mikm1235,traditional,Fig. 1,,Time of European Contact
+215,Mikasuki,mika1239,traditional,Fig. 1,,Time of European Contact
+216,"Mohawk",moha1258,traditional,Fig. 1,,Time of European Contact
+217,Mohegan-Pequot-Narragansett,mohe1244,traditional,Fig. 1,,Time of European Contact
+218,Mojave,moha1256,traditional,Fig. 1,,Time of European Contact
+219,Molala,mola1238,traditional,Fig. 1,,Time of European Contact
+220,Mono,mono1275,traditional,Fig. 1,,Time of European Contact
+221,Montagnais,mont1268,traditional,Fig. 1,,Time of European Contact
+222,Mopán Maya,mopa1243,traditional,Fig. 1,,Time of European Contact
+223,Munsee Delaware,muns1251,traditional,Fig. 1,,Time of European Contact
+224,Mískito,misk1235,traditional,Fig. 1,,Time of European Contact
+225,Nanticoke-Conoy,nant1249,traditional,Fig. 1,,Time of European Contact
+226,Naolan,naol1234,traditional,Fig. 1,,Time of European Contact
+227,Naskapi,nask1242,traditional,Fig. 1,,Time of European Contact
+228,Nass-Gitksan,gitx1241,traditional,Fig. 1,,Time of European Contact
+229,Navajo,nava1243,traditional,Fig. 1,,Time of European Contact
+230,Nawathinehena,nawa1259,traditional,Fig. 1,,Time of European Contact
+231,Neutral Iroquoian,nort2947,traditional,Fig. 1,,Time of European Contact
+232,Nez Perce,nezp1238,traditional,Fig. 1,,Time of European Contact
+233,Ngäbere,ngab1239,traditional,Fig. 1,,Time of European Contact
+234,Nicola,nico1265,traditional,Fig. 1,,Time of European Contact
+235,Nisenan,nise1244,traditional,Fig. 1,,Time of European Contact
+236,Nooksack,nook1247,traditional,Fig. 1,,Time of European Contact
+237,North Alaskan Inupiatun,nort2943,traditional,Fig. 1,,Time of European Contact
+238,North Slavey,nort2942,traditional,Fig. 1,,Time of European Contact
+239,Northeastern Pomo,nort2967,traditional,Fig. 1,,Time of European Contact
+240,"NorthernPaiute",nort2954,traditional,Fig. 1,,Time of European Contact
+241,Northern Alta Mixtec,nort3199,traditional,Fig. 1,,Time of European Contact
+242,Northern Baja Mixtec,nort3200,traditional,Fig. 1,,Time of European Contact
+243,Northern Core Zapotec,nort2987,traditional,Fig. 1,,Time of European Contact
+244,Northern Ohlone,nort2969,traditional,Fig. 1,,Time of European Contact
+245,Northern Pomo,nort2966,traditional,Fig. 1,,Time of European Contact
+246,Northern Popolocan,popo1294,traditional,Fig. 1,,Time of European Contact
+247,Northern Puebla Nahuatl,nort2957,traditional,Fig. 1,,Time of European Contact
+248,Northern Sierra Miwok,nort2968,traditional,Fig. 1,,Time of European Contact
+249,Northern Straits,stra1244,traditional,Fig. 1,,Time of European Contact
+250,Northern Tepehuan,nort2959,traditional,Fig. 1,,Time of European Contact
+251,Northern Tutchone,nort2941,traditional,Fig. 1,,Time of European Contact
+252,Northern Yokuts,yoku1256,traditional,Fig. 1,,Time of European Contact
+253,Northern Yukian,yuki1243,traditional,Fig. 1,,Time of European Contact
+254,Nottoway,nott1246,traditional,Fig. 1,,Time of European Contact
+255,Nuu-chah-nulth,nuuc1236,traditional,Fig. 1,,Time of European Contact
+256,Oaxaca Mixe,oaxa1241,traditional,Fig. 1,,Time of European Contact
+257,Obispeño,obis1242,traditional,Fig. 1,,Time of European Contact
+258,Ofo,ofoo1242,traditional,Fig. 1,,Time of European Contact
+259,Okanagan,okan1243,traditional,Fig. 1,,Time of European Contact
+260,Oluta Popoluca,olut1240,traditional,Fig. 1,,Time of European Contact
+261,"Omaha-Ponca",omah1247,traditional,Fig. 1,,Time of European Contact
+262,Oneida,onei1249,traditional,Fig. 1,,Time of European Contact
+263,Onondaga,onon1246,traditional,Fig. 1,,Time of European Contact
+264,Opata,opat1246,traditional,Fig. 1,,Time of European Contact
+265,Opelousa,,traditional,Fig. 1,,Time of European Contact
+266,Osage,osag1243,traditional,Fig. 1,,Time of European Contact
+267,Otomian,otom1297,traditional,Fig. 1,,Time of European Contact
+268,Ottawa,otta1242,traditional,Fig. 1,,Time of European Contact
+269,Pacific Gulf Yupik,paci1278,traditional,Fig. 1,,Time of European Contact
+270,Paipai,paip1241,traditional,Fig. 1,,Time of European Contact
+271,Pakana,,traditional,Fig. 1,,Time of European Contact
+272,Palewyami Yokuts,pale1254,traditional,Fig. 1,,Time of European Contact
+273,Pame,nort2984,traditional,Fig. 1,,Time of European Contact
+274,Panamint,pana1305,traditional,Fig. 1,,Time of European Contact
+275,Patwin,patw1250,traditional,Fig. 1,,Time of European Contact
+276,Pawnee,pawn1254,traditional,Fig. 1,,Time of European Contact
+277,Pech,pech1241,traditional,Fig. 1,,Time of European Contact
+278,Pensacola,,traditional,Fig. 1,,Time of European Contact
+279,Pentlach,pent1242,traditional,Fig. 1,,Time of European Contact
+280,Pericú,peri1250,traditional,Fig. 1,,Time of European Contact
+281,Pima Bajo,pima1248,traditional,Fig. 1,,Time of European Contact
+282,Pinome,,traditional,Fig. 1,,Time of European Contact
+283,Pipil,pipi1250,traditional,Fig. 1,,Time of European Contact
+284,Piro,piro1248,traditional,Fig. 1,,Time of European Contact
+285,Plains Cree,plai1258,traditional,Fig. 1,,Time of European Contact
+286,Plains Miwok,plai1259,traditional,Fig. 1,,Time of European Contact
+287,Pochutec,poch1244,traditional,Fig. 1,,Time of European Contact
+288,Poqom,poco1241,traditional,Fig. 1,,Time of European Contact
+289,Potawatomi,pota1247,traditional,Fig. 1,,Time of European Contact
+290,Powhatan,powh1243,traditional,Fig. 1,,Time of European Contact
+291,Purepecha,pure1242,traditional,Fig. 1,,Time of European Contact
+292,Purismeño,puri1259,traditional,Fig. 1,,Time of European Contact
+293,Q'anjob'al,qanj1241,traditional,Fig. 1,,Time of European Contact
+294,Quapaw,quap1242,traditional,Fig. 1,,Time of European Contact
+295,Quechan,quec1382,traditional,Fig. 1,,Time of European Contact
+296,Querétaro Otomi,quer1236,traditional,Fig. 1,,Time of European Contact
+297,Quileute,quil1240,traditional,Fig. 1,,Time of European Contact
+298,Quinault,quin1251,traditional,Fig. 1,,Time of European Contact
+299,Quinigua,quin1252,traditional,Fig. 1,,Time of European Contact
+300,Quiripi,wamp1250,traditional,Fig. 1,,Time of European Contact
+301,Rama,rama1270,traditional,Fig. 1,,Time of European Contact
+302,Rio Grande Tewa,tewa1260,traditional,Fig. 1,,Time of European Contact
+303,Rogue River Athabaskan,tolo1259,traditional,Fig. 1,,Time of European Contact
+304,Sahaptin-Walla Walla,wall1238,traditional,Fig. 1,,Time of European Contact
+305,Salinan,sali1253,traditional,Fig. 1,,Time of European Contact
+306,Salteaux,west1510,traditional,Fig. 1,,Time of European Contact
+307,San Francisco Matlatzinca,sanf1262,traditional,Fig. 1,,Time of European Contact
+308,Sarcee,sars1236,traditional,Fig. 1,,Time of European Contact
+309,Sayula Popoluca,sayu1241,traditional,Fig. 1,,Time of European Contact
+310,Sechelt,sech1246,traditional,Fig. 1,,Time of European Contact
+311,Sekani,seka1250,traditional,Fig. 1,,Time of European Contact
+312,Seneca,sene1264,traditional,Fig. 1,,Time of European Contact
+313,Seri,seri1257,traditional,Fig. 1,,Time of European Contact
+314,Serrano,serr1255,traditional,Fig. 1,,Time of European Contact
+315,Severn Ojibwa,seve1240,traditional,Fig. 1,,Time of European Contact
+316,Seward Peninsula Inupiatun,nort2945,traditional,Fig. 1,,Time of European Contact
+317,Shawnee,shaw1249,traditional,Fig. 1,,Time of European Contact
+318,Shoshoni,,traditional,Fig. 1,,Time of European Contact
+319,Shuswap,shus1248,traditional,Fig. 1,,Time of European Contact
+320,Siksika,siks1238,traditional,Fig. 1,,Time of European Contact
+321,Sipacapense,sipa1247,traditional,Fig. 1,,Time of European Contact
+322,Siuslaw,sius1254,traditional,Fig. 1,,Time of European Contact
+323,Slavey,sout2959,traditional,Fig. 1,,Time of European Contact
+324,Solano,sanf1266,traditional,Fig. 1,,Time of European Contact
+325,Southern Baja Mixtec,mixt1427,traditional,Fig. 1,,Time of European Contact
+326,Southern Core Zapotec,sout3003,traditional,Fig. 1,,Time of European Contact
+327,Southern Ohlone,sout2986,traditional,Fig. 1,,Time of European Contact
+328,Southern Pomo,sout2984,traditional,Fig. 1,,Time of European Contact
+329,Southern Sierra Miwok ,sout2985,traditional,Fig. 1,,Time of European Contact
+330,Southern Tepehuan,sout2977,traditional,Fig. 1,,Time of European Contact
+331,Southern Tiwa,sout2961,traditional,Fig. 1,,Time of European Contact
+332,Southern Tutchone,sout2957,traditional,Fig. 1,,Time of European Contact
+333,Spokane,spok1245,traditional,Fig. 1,,Time of European Contact
+334,Squamish,squa1248,traditional,Fig. 1,,Time of European Contact
+335,Stoney,ston1242,traditional,Fig. 1,,Time of European Contact
+336,Subtiaba,subt1250,traditional,Fig. 1,,Time of European Contact
+337,Susquehannock,susq1241,traditional,Fig. 1,,Time of European Contact
+338,Swampy Cree,swam1239,traditional,Fig. 1,,Time of European Contact
+339,Tabasco Chontal,taba1266,traditional,Fig. 1,,Time of European Contact
+340,Tagish,tagi1240,traditional,Fig. 1,,Time of European Contact
+341,Tahltan,tahl1239,traditional,Fig. 1,,Time of European Contact
+342,Tahue,,traditional,Fig. 1,,Time of European Contact
+343,Takelma,take1257,traditional,Fig. 1,,Time of European Contact
+344,Tanacross,tana1290,traditional,Fig. 1,,Time of European Contact
+345,Tanaina,tana1289,traditional,Fig. 1,,Time of European Contact
+346,Taos,nort1550,traditional,Fig. 1,,Time of European Contact
+347,Tapachultec,tapa1260,traditional,Fig. 1,,Time of European Contact
+348,Tarahumara,tara1321,traditional,Fig. 1,,Time of European Contact
+349,Tataviam,serr1254,traditional,Fig. 1,,Time of European Contact
+350,Tawasa,timu1245,traditional,Fig. 1,,Time of European Contact
+351,Tecoxquin,,traditional,Fig. 1,,Time of European Contact
+352,Tektiteko,tekt1235,traditional,Fig. 1,,Time of European Contact
+353,Tekwexe,,traditional,Fig. 1,,Time of European Contact
+354,Temori,,traditional,Fig. 1,,Time of European Contact
+355,Tenino,teni1238,traditional,Fig. 1,,Time of European Contact
+356,Tepecano,tepe1278,traditional,Fig. 1,,Time of European Contact
+357,Tepehua,tepe1243,traditional,Fig. 1,,Time of European Contact
+358,Tequesta,,traditional,Fig. 1,,Time of European Contact
+359,Teribe,teri1250,traditional,Fig. 1,,Time of European Contact
+360,Texistepec Popoluca,texi1237,traditional,Fig. 1,,Time of European Contact
+361,Tilapa Otomi,tila1239,traditional,Fig. 1,,Time of European Contact
+362,Tillamook,till1254,traditional,Fig. 1,,Time of European Contact
+363,Tipai,kumi1248,traditional,Fig. 1,,Time of European Contact
+364,Tlingit,tlin1245,traditional,Fig. 1,,Time of European Contact
+365,Toboso,,traditional,Fig. 1,,Time of European Contact
+366,Tocobaga,,traditional,Fig. 1,,Time of European Contact
+367,Tohono O'odham,toho1245,traditional,Fig. 1,,Time of European Contact
+368,Tojolabal,tojo1241,traditional,Fig. 1,,Time of European Contact
+369,Tol,toll1241,traditional,Fig. 1,,Time of European Contact
+370,Tolimeco,,traditional,Fig. 1,,Time of European Contact
+371,Tongva,tong1329,traditional,Fig. 1,,Time of European Contact
+372,Tonkawa,tonk1249,traditional,Fig. 1,,Time of European Contact
+373,Totonac,toto1252,traditional,Fig. 1,,Time of European Contact
+374,Totorame,,traditional,Fig. 1,,Time of European Contact
+375,Towa,jeme1245,traditional,Fig. 1,,Time of European Contact
+376,Trique,triq1251,traditional,Fig. 1,,Time of European Contact
+377,Tsetsaut,tset1236,traditional,Fig. 1,,Time of European Contact
+378,Tubatulabal,tuba1278,traditional,Fig. 1,,Time of European Contact
+379,Tule-Kaweah Yokuts,tule1245,traditional,Fig. 1,,Time of European Contact
+380,Tunica,tuni1252,traditional,Fig. 1,,Time of European Contact
+381,"Tuscarora",tusc1257,traditional,Fig. 1,,Time of European Contact
+382,Tutelo-Saponi,tute1247,traditional,Fig. 1,,Time of European Contact
+383,Twana,twan1247,traditional,Fig. 1,,Time of European Contact
+384,Tz'utujil,tzut1248,traditional,Fig. 1,,Time of European Contact
+385,Tzeltal,tzel1254,traditional,Fig. 1,,Time of European Contact
+386,Tzotzil,tzot1259,traditional,Fig. 1,,Time of European Contact
+387,Ulwa,ulwa1239,traditional,Fig. 1,,Time of European Contact
+388,Umatilla,umat1237,traditional,Fig. 1,,Time of European Contact
+389,Unami Delaware,unam1242,traditional,Fig. 1,,Time of European Contact
+390,Upper Chehalis,uppe1439,traditional,Fig. 1,,Time of European Contact
+391,Upper Kuskokwim,uppe1438,traditional,Fig. 1,,Time of European Contact
+392,Upper Tanana,uppe1437,traditional,Fig. 1,,Time of European Contact
+393,Upper Umpqua,uppe1436,traditional,Fig. 1,,Time of European Contact
+394,Uspanteco,uspa1245,traditional,Fig. 1,,Time of European Contact
+395,Ute-Southern Paiute,utes1238,traditional,Fig. 1,,Time of European Contact
+396,Ventureño,vent1242,traditional,Fig. 1,,Time of European Contact
+397,Wampanoag,wamp1249,traditional,Fig. 1,,Time of European Contact
+398,Wappo,wapp1239,traditional,Fig. 1,,Time of European Contact
+399,Wasco,wasc1239,traditional,Fig. 1,,Time of European Contact
+400,Washo,wash1253,traditional,Fig. 1,,Time of European Contact
+401,Wenro,wenr1236,traditional,Fig. 1,,Time of European Contact
+402,Western Abenaki,west2630,traditional,Fig. 1,,Time of European Contact
+403,Western Apache,west2615,traditional,Fig. 1,,Time of European Contact
+404,Western Canadian Inuktitut,west2618,traditional,Fig. 1,,Time of European Contact
+405,Western Durango Nahuatl,west2778,traditional,Fig. 1,,Time of European Contact
+406,Western Zapotec,west2645,traditional,Fig. 1,,Time of European Contact
+407,Wichita,wich1260,traditional,Fig. 1,,Time of European Contact
+408,Wintu,wint1259,traditional,Fig. 1,,Time of European Contact
+409,Wiyot,wiyo1248,traditional,Fig. 1,,Time of European Contact
+410,Woccon,wocc1242,traditional,Fig. 1,,Time of European Contact
+411,Woods Cree,wood1236,traditional,Fig. 1,,Time of European Contact
+412,Xinca,xinc1237,traditional,Fig. 1,,Time of European Contact
+413,Xixime,,traditional,Fig. 1,,Time of European Contact
+414,Yakama,yaki1237,traditional,Fig. 1,,Time of European Contact
+415,Yamasee,yama1265,traditional,Fig. 1,,Time of European Contact
+416,Yana,yana1271,traditional,Fig. 1,,Time of European Contact
+417,Yaqui,yaqu1251,traditional,Fig. 1,,Time of European Contact
+418,Yucatec Maya,yuca1254,traditional,Fig. 1,,Time of European Contact
+419,Yuchi,yuch1247,traditional,Fig. 1,,Time of European Contact
+420,Yurok,yuro1248,traditional,Fig. 1,,Time of European Contact
+421,Zacateco,,traditional,Fig. 1,,Time of European Contact
+422,Zuni,zuni1245,traditional,Fig. 1,,Time of European Contact

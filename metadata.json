@@ -1,0 +1,8 @@
+{
+    "id": "haynie2019modern",
+    "title": "Glottography dataset derived from Haynie and Gavin 2019 \"Modern language range mapping for the study of language diversity\"",
+    "description": "This dataset provides non-overlapping language ranges for North American languages immediately prior to European colonial incursion, suitable for the study of language diversity patterns, derived from the map published with Haynie & Gavin 2019.",
+    "license": "CC-BY-NC-4.0",
+    "url": null,
+    "citation": "Haynie, Hannah J. & Michael C. Gavin. 2019. Modern language range mapping for the study of language diversity. doi: 10.31235/osf.io/9fu7g."
+}
