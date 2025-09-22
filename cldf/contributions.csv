@@ -1,423 +1,424 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Acaxee,,,,cahi1243,traditional,haynie2019modern,features,Fig. 1
-2,Achumawi,,,,achu1247,traditional,haynie2019modern,features,Fig. 1
-3,Acoma,,,,west2632,traditional,haynie2019modern,features,Fig. 1
-4,Adai,,,,adai1235,traditional,haynie2019modern,features,Fig. 1
-5,Ahtna,,,,ahte1237,traditional,haynie2019modern,features,Fig. 1
-6,Ais,,,,,traditional,haynie2019modern,features,Fig. 1
-7,Akimel O'odham,,,,akim1239,traditional,haynie2019modern,features,Fig. 1
-8,Alabama,,,,alab1237,traditional,haynie2019modern,features,Fig. 1
-9,Alafay,,,,,traditional,haynie2019modern,features,Fig. 1
-10,Aleut,,,,aleu1260,traditional,haynie2019modern,features,Fig. 1
-11,Algonquin,,,,algo1255,traditional,haynie2019modern,features,Fig. 1
-12,Amuzgoan,,,,amuz1254,traditional,haynie2019modern,features,Fig. 1
-13,Apalachee,,,,apal1237,traditional,haynie2019modern,features,Fig. 1
-14,Aranama,,,,aran1265,traditional,haynie2019modern,features,Fig. 1
-15,Arapaho,,,,arap1274,traditional,haynie2019modern,features,Fig. 1
-16,Arikara,,,,arik1262,traditional,haynie2019modern,features,Fig. 1
-17,Assiniboine,,,,assi1247,traditional,haynie2019modern,features,Fig. 1
-18,Atakapa,,,,atak1252,traditional,haynie2019modern,features,Fig. 1
-19,Atikamekw,,,,atik1240,traditional,haynie2019modern,features,Fig. 1
-20,Atsugewi,,,,atsu1245,traditional,haynie2019modern,features,Fig. 1
-21,Atzingo Matlatzinca,,,,atzi1235,traditional,haynie2019modern,features,Fig. 1
-22,Avoyel,,,,,traditional,haynie2019modern,features,Fig. 1
-23,Babine,,,,babi1235,traditional,haynie2019modern,features,Fig. 1
-24,Barbareño,,,,barb1263,traditional,haynie2019modern,features,Fig. 1
-25,Beaver,,,,beav1236,traditional,haynie2019modern,features,Fig. 1
-26,Bella Coola,,,,bell1243,traditional,haynie2019modern,features,Fig. 1
-27,Bidai,,,,bida1238,traditional,haynie2019modern,features,Fig. 1
-28,Biloxi,,,,bilo1248,traditional,haynie2019modern,features,Fig. 1
-29,Boruca,,,,boru1252,traditional,haynie2019modern,features,Fig. 1
-30,Bribri,,,,brib1243,traditional,haynie2019modern,features,Fig. 1
-31,Buena Vista Yokuts,,,,buen1244,traditional,haynie2019modern,features,Fig. 1
-32,Buglere,,,,bugl1243,traditional,haynie2019modern,features,Fig. 1
-33,Cabécar,,,,cabe1245,traditional,haynie2019modern,features,Fig. 1
-34,Cacaopera,,,,caca1247,traditional,haynie2019modern,features,Fig. 1
-35,Caddo,,,,cadd1256,traditional,haynie2019modern,features,Fig. 1
-36,Cahuilla,,,,cahu1264,traditional,haynie2019modern,features,Fig. 1
-37,Calusa,,,,calu1239,traditional,haynie2019modern,features,Fig. 1
-38,Carizo,,,,,traditional,haynie2019modern,features,Fig. 1
-39,Carolina Algonquian,,,,caro1243,traditional,haynie2019modern,features,Fig. 1
-40,Carrier,,,,carr1249,traditional,haynie2019modern,features,Fig. 1
-41,Catawba,,,,cata1286,traditional,haynie2019modern,features,Fig. 1
-42,Cayuse,,,,cayu1241,traditional,haynie2019modern,features,Fig. 1
-43,Central Alaskan Yupik,,,,cent2127,traditional,haynie2019modern,features,Fig. 1
-44,Central Baja Mixtec,,,,cent2266,traditional,haynie2019modern,features,Fig. 1
-45,Central Core Zapotec,,,,cent2146,traditional,haynie2019modern,features,Fig. 1
-46,Central Mazahua,,,,cent2144,traditional,haynie2019modern,features,Fig. 1
-47,Central Nahuatl,,,,cent2258,traditional,haynie2019modern,features,Fig. 1
-48,Central Sierra Miwok,,,,cent2140,traditional,haynie2019modern,features,Fig. 1
-49,Central Southern Ojibwa,,,,chip1241,traditional,haynie2019modern,features,Fig. 1
-50,Chacato,,,,,traditional,haynie2019modern,features,Fig. 1
-51,Chatino,,,,chat1268,traditional,haynie2019modern,features,Fig. 1
-52,Chemakum,,,,chim1310,traditional,haynie2019modern,features,Fig. 1
-53,Cherokee,,,,cher1273,traditional,haynie2019modern,features,Fig. 1
-54,Cheyenne,,,,chey1247,traditional,haynie2019modern,features,Fig. 1
-55,Chiapanec,,,,chia1262,traditional,haynie2019modern,features,Fig. 1
-56,Chiapas Zoque,,,,chia1261,traditional,haynie2019modern,features,Fig. 1
-57,Chickasaw,,,,chic1270,traditional,haynie2019modern,features,Fig. 1
-58,Chicomuceltec,,,,chic1271,traditional,haynie2019modern,features,Fig. 1
-59,Chilcotin,,,,chil1280,traditional,haynie2019modern,features,Fig. 1
-60,Chinantecan,,,,chin1484,traditional,haynie2019modern,features,Fig. 1
-61,Chipewyan,,,,chip1261,traditional,haynie2019modern,features,Fig. 1
-62,Chisca,,,,,traditional,haynie2019modern,features,Fig. 1
-63,Chitimacha,,,,chit1248,traditional,haynie2019modern,features,Fig. 1
-64,Chochotec,,,,choc1279,traditional,haynie2019modern,features,Fig. 1
-65,Choctaw,,,,choc1276,traditional,haynie2019modern,features,Fig. 1
-66,Chol,,,,chol1282,traditional,haynie2019modern,features,Fig. 1
-67,Cholti,,,,chol1283,traditional,haynie2019modern,features,Fig. 1
-68,Chortí,,,,chor1273,traditional,haynie2019modern,features,Fig. 1
-69,Chuj,,,,chuj1250,traditional,haynie2019modern,features,Fig. 1
-70,Chumbia,,,,,traditional,haynie2019modern,features,Fig. 1
-71,Clallam,,,,clal1241,traditional,haynie2019modern,features,Fig. 1
-72,Clatskanie-Kwalhioqua,,,,kwal1258,traditional,haynie2019modern,features,Fig. 1
-73,Coahuilteco,,,,coah1252,traditional,haynie2019modern,features,Fig. 1
-74,Coast Miwok,,,,coas1301,traditional,haynie2019modern,features,Fig. 1
-75,Coast Tsimshian,,,,coas1300,traditional,haynie2019modern,features,Fig. 1
-76,Coatepec Nahuatl,,,,coat1240,traditional,haynie2019modern,features,Fig. 1
-77,Coca,,,,,traditional,haynie2019modern,features,Fig. 1
-78,Cochimi,,,,coch1272,traditional,haynie2019modern,features,Fig. 1
-79,Cocopa,,,,coco1261,traditional,haynie2019modern,features,Fig. 1
-80,Coeur d' Alene,,,,coeu1236,traditional,haynie2019modern,features,Fig. 1
-81,Columbia-Wenatchi,,,,colu1241,traditional,haynie2019modern,features,Fig. 1
-82,Comanche,,,,coma1245,traditional,haynie2019modern,features,Fig. 1
-83,Comanito,,,,,traditional,haynie2019modern,features,Fig. 1
-84,Comecrudan,,,,come1251,traditional,haynie2019modern,features,Fig. 1
-85,Comox,,,,como1259,traditional,haynie2019modern,features,Fig. 1
-86,Concho,,,,conc1237,traditional,haynie2019modern,features,Fig. 1
-87,Cora,,,,cora1260,traditional,haynie2019modern,features,Fig. 1
-88,Cotoname,,,,coto1248,traditional,haynie2019modern,features,Fig. 1
-89,Cowlitz,,,,cowl1242,traditional,haynie2019modern,features,Fig. 1
-90,Creek,,,,cree1270,traditional,haynie2019modern,features,Fig. 1
-91,Crow,,,,crow1244,traditional,haynie2019modern,features,Fig. 1
-92,Cuicatec,,,,cuic1234,traditional,haynie2019modern,features,Fig. 1
-93,Cuitlatec,,,,cuit1236,traditional,haynie2019modern,features,Fig. 1
-94,Cusabo,,,,cusa1237,traditional,haynie2019modern,features,Fig. 1
-95,Dakota,,,,dako1258,traditional,haynie2019modern,features,Fig. 1
-96,Degexit'an,,,,dege1248,traditional,haynie2019modern,features,Fig. 1
-97,Ditidaht,,,,diti1235,traditional,haynie2019modern,features,Fig. 1
-98,Dogrib,,,,dogr1252,traditional,haynie2019modern,features,Fig. 1
-99,Dorasque,,,,dora1242,traditional,haynie2019modern,features,Fig. 1
-100,East Cree,,,,nort1552,traditional,haynie2019modern,features,Fig. 1
-101,Eastern Abenaki,,,,east2544,traditional,haynie2019modern,features,Fig. 1
-102,Eastern Canadian Inuktitut,,,,east2534,traditional,haynie2019modern,features,Fig. 1
-103,Eastern Durango Nahuatl,,,,east2695,traditional,haynie2019modern,features,Fig. 1
-104,Eastern Highland Otomi,,,,east2556,traditional,haynie2019modern,features,Fig. 1
-105,Eastern Keres,,,,east1472,traditional,haynie2019modern,features,Fig. 1
-106,Eastern Nahuatl,,,,east2720,traditional,haynie2019modern,features,Fig. 1
-107,Eastern Ojibwa,,,,east2542,traditional,haynie2019modern,features,Fig. 1
-108,Eastern Pomo,,,,east2545,traditional,haynie2019modern,features,Fig. 1
-109,Eel River Athabaskan,,,,wail1244,traditional,haynie2019modern,features,Fig. 1
-110,Esselen,,,,esse1238,traditional,haynie2019modern,features,Fig. 1
-111,Eudeve,,,,eude1234,traditional,haynie2019modern,features,Fig. 1
-112,Eyak,,,,eyak1241,traditional,haynie2019modern,features,Fig. 1
-113,Eyeish,,,,,traditional,haynie2019modern,features,Fig. 1
-114,Fox,,,,mesk1242,traditional,haynie2019modern,features,Fig. 1
-115,Galice,,,,gali1261,traditional,haynie2019modern,features,Fig. 1
-116,Gros Ventre,,,,gros1243,traditional,haynie2019modern,features,Fig. 1
-117,Guachichil,,,,,traditional,haynie2019modern,features,Fig. 1
-118,Guaicura,,,,guai1237,traditional,haynie2019modern,features,Fig. 1
-119,Guale,,,,gual1239,traditional,haynie2019modern,features,Fig. 1
-120,Guarijio,,,,huar1255,traditional,haynie2019modern,features,Fig. 1
-121,Guasave,,,,,traditional,haynie2019modern,features,Fig. 1
-122,Guazoco-Tocaste,,,,,traditional,haynie2019modern,features,Fig. 1
-123,Gwich'in,,,,gwic1235,traditional,haynie2019modern,features,Fig. 1
-124,Haida,,,,haid1248,traditional,haynie2019modern,features,Fig. 1
-125,Haisla,,,,hais1244,traditional,haynie2019modern,features,Fig. 1
-126,Halkomelem,,,,halk1245,traditional,haynie2019modern,features,Fig. 1
-127,Han,,,,hann1241,traditional,haynie2019modern,features,Fig. 1
-128,Havasupai-Walapai-Yavapai,,,,hava1248,traditional,haynie2019modern,features,Fig. 1
-129,Heiltsuk-Oowekyala,,,,heil1246,traditional,haynie2019modern,features,Fig. 1
-130,Hidatsa,,,,hida1246,traditional,haynie2019modern,features,Fig. 1
-131,Highland Zoque,,,,zoqu1261,traditional,haynie2019modern,features,Fig. 1
-132,Ho-Chunk,,,,hoch1243,traditional,haynie2019modern,features,Fig. 1
-133,Holikachuk,,,,holi1241,traditional,haynie2019modern,features,Fig. 1
-134,Hopi,,,,hopi1249,traditional,haynie2019modern,features,Fig. 1
-135,Houma,,,,,traditional,haynie2019modern,features,Fig. 1
-136,Huastec,,,,huas1242,traditional,haynie2019modern,features,Fig. 1
-137,Huavean,,,,huav1256,traditional,haynie2019modern,features,Fig. 1
-138,Huichol,,,,huic1243,traditional,haynie2019modern,features,Fig. 1
-139,Huite,,,,opat1247,traditional,haynie2019modern,features,Fig. 1
-140,Hupa,,,,hupa1239,traditional,haynie2019modern,features,Fig. 1
-141,Huron,,,,wyan1247,traditional,haynie2019modern,features,Fig. 1
-142,Ineseño,,,,ines1240,traditional,haynie2019modern,features,Fig. 1
-143,Interior Chumash,,,,cent2139,traditional,haynie2019modern,features,Fig. 1
-144,Iowa-Otoe,,,,iowa1245,traditional,haynie2019modern,features,Fig. 1
-145,Ipai,,,,ipai1240,traditional,haynie2019modern,features,Fig. 1
-146,Island Chumash,,,,cruz1243,traditional,haynie2019modern,features,Fig. 1
-147,Itzá,,,,itza1241,traditional,haynie2019modern,features,Fig. 1
-148,Ixil,,,,ixil1251,traditional,haynie2019modern,features,Fig. 1
-149,Ixtenco Otomi,,,,ixte1237,traditional,haynie2019modern,features,Fig. 1
-150,Jaega,,,,,traditional,haynie2019modern,features,Fig. 1
-151,Jalisco Otomi,,,,otom1300,traditional,haynie2019modern,features,Fig. 1
-152,Jicarilla,,,,jica1244,traditional,haynie2019modern,features,Fig. 1
-153,Jumano,,,,juma1248,traditional,haynie2019modern,features,Fig. 1
-154,K'iche',,,,kich1262,traditional,haynie2019modern,features,Fig. 1
-155,Kalapuya,,,,kala1400,traditional,haynie2019modern,features,Fig. 1
-156,Kalispel,,,,kali1309,traditional,haynie2019modern,features,Fig. 1
-157,Kansa,,,,kans1243,traditional,haynie2019modern,features,Fig. 1
-158,Kaqchikel,,,,kaqc1270,traditional,haynie2019modern,features,Fig. 1
-159,Karankawa,,,,kara1289,traditional,haynie2019modern,features,Fig. 1
-160,Karkin,,,,kark1259,traditional,haynie2019modern,features,Fig. 1
-161,Karuk,,,,karo1304,traditional,haynie2019modern,features,Fig. 1
-162,Kaska,,,,kask1239,traditional,haynie2019modern,features,Fig. 1
-163,Kaskan,,,,,traditional,haynie2019modern,features,Fig. 1
-164,Kathalmet,,,,kath1253,traditional,haynie2019modern,features,Fig. 1
-165,Kato,,,,kato1244,traditional,haynie2019modern,features,Fig. 1
-166,"Kawaiisu",,,,kawa1283,traditional,haynie2019modern,features,Fig. 1
-167,Kekchí,,,,kekc1242,traditional,haynie2019modern,features,Fig. 1
-168,Kickapoo,,,,kick1244,traditional,haynie2019modern,features,Fig. 1
-169,Kiliwa,,,,kili1268,traditional,haynie2019modern,features,Fig. 1
-170,Kiowa,,,,kiow1266,traditional,haynie2019modern,features,Fig. 1
-171,Kiowa Apache,,,,kiow1264,traditional,haynie2019modern,features,Fig. 1
-172,Kitsai,,,,kits1249,traditional,haynie2019modern,features,Fig. 1
-173,Klamath-Modoc,,,,klam1254,traditional,haynie2019modern,features,Fig. 1
-174,Koasati,,,,koas1236,traditional,haynie2019modern,features,Fig. 1
-175,Konkow,,,,nort2951,traditional,haynie2019modern,features,Fig. 1
-176,Konomihu,,,,kono1241,traditional,haynie2019modern,features,Fig. 1
-177,Koyukon,,,,koyu1237,traditional,haynie2019modern,features,Fig. 1
-178,Kuna,,,,sanb1242,traditional,haynie2019modern,features,Fig. 1
-179,Kwak'wala,,,,kwak1269,traditional,haynie2019modern,features,Fig. 1
-180,Lagunero,,,,,traditional,haynie2019modern,features,Fig. 1
-181,Lakota,,,,lako1247,traditional,haynie2019modern,features,Fig. 1
-182,Laurentian,,,,laur1250,traditional,haynie2019modern,features,Fig. 1
-183,Lenca Honduras,,,,lenc1242,traditional,haynie2019modern,features,Fig. 1
-184,Lenca Salvador,,,,lenc1243,traditional,haynie2019modern,features,Fig. 1
-185,Lillooet,,,,lill1248,traditional,haynie2019modern,features,Fig. 1
-186,Lipan,,,,lipa1241,traditional,haynie2019modern,features,Fig. 1
-187,Loup,,,,loup1243,traditional,haynie2019modern,features,Fig. 1
-188,Lower Chehalis,,,,lowe1427,traditional,haynie2019modern,features,Fig. 1
-189,Lower Chinook,,,,chin1286,traditional,haynie2019modern,features,Fig. 1
-190,Lower Tanana,,,,lowe1425,traditional,haynie2019modern,features,Fig. 1
-191,Lowland Oaxaca Chontal,,,,lowl1260,traditional,haynie2019modern,features,Fig. 1
-192,Luiseño,,,,luis1253,traditional,haynie2019modern,features,Fig. 1
-193,Lushootseed,,,,lush1252,traditional,haynie2019modern,features,Fig. 1
-194,Mahican,,,,mahi1248,traditional,haynie2019modern,features,Fig. 1
-195,Maidu,,,,nort2952,traditional,haynie2019modern,features,Fig. 1
-196,Makah,,,,maka1318,traditional,haynie2019modern,features,Fig. 1
-197,Malicite-Passamaquoddy,,,,male1292,traditional,haynie2019modern,features,Fig. 1
-198,Maléku Jaíka,,,,male1297,traditional,haynie2019modern,features,Fig. 1
-199,Mam,,,,mamm1241,traditional,haynie2019modern,features,Fig. 1
-200,Mandan,,,,mand1446,traditional,haynie2019modern,features,Fig. 1
-201,Mangue,,,,moni1237,traditional,haynie2019modern,features,Fig. 1
-202,Maratino,,,,mara1266,traditional,haynie2019modern,features,Fig. 1
-203,Maricopa,,,,mari1440,traditional,haynie2019modern,features,Fig. 1
-204,Matagalpa,,,,mata1288,traditional,haynie2019modern,features,Fig. 1
-205,Mattole,,,,matt1238,traditional,haynie2019modern,features,Fig. 1
-206,Mayo,,,,mayo1264,traditional,haynie2019modern,features,Fig. 1
-207,Meherrin,,,,mehe1242,traditional,haynie2019modern,features,Fig. 1
-208,Menominee,,,,meno1252,traditional,haynie2019modern,features,Fig. 1
-209,Mephaa,,,,meph1234,traditional,haynie2019modern,features,Fig. 1
-210,Mescalero-Chiricahua,,,,mesc1238,traditional,haynie2019modern,features,Fig. 1
-211,Mezquital Otomi,,,,mezq1235,traditional,haynie2019modern,features,Fig. 1
-212,Miami,,,,nucl1653,traditional,haynie2019modern,features,Fig. 1
-213,Michoacán Nahuatl,,,,mich1245,traditional,haynie2019modern,features,Fig. 1
-214,Micmac,,,,mikm1235,traditional,haynie2019modern,features,Fig. 1
-215,Mikasuki,,,,mika1239,traditional,haynie2019modern,features,Fig. 1
-216,"Mohawk",,,,moha1258,traditional,haynie2019modern,features,Fig. 1
-217,Mohegan-Pequot-Narragansett,,,,mohe1244,traditional,haynie2019modern,features,Fig. 1
-218,Mojave,,,,moha1256,traditional,haynie2019modern,features,Fig. 1
-219,Molala,,,,mola1238,traditional,haynie2019modern,features,Fig. 1
-220,Mono,,,,mono1275,traditional,haynie2019modern,features,Fig. 1
-221,Montagnais,,,,mont1268,traditional,haynie2019modern,features,Fig. 1
-222,Mopán Maya,,,,mopa1243,traditional,haynie2019modern,features,Fig. 1
-223,Munsee Delaware,,,,muns1251,traditional,haynie2019modern,features,Fig. 1
-224,Mískito,,,,misk1235,traditional,haynie2019modern,features,Fig. 1
-225,Nanticoke-Conoy,,,,nant1249,traditional,haynie2019modern,features,Fig. 1
-226,Naolan,,,,naol1234,traditional,haynie2019modern,features,Fig. 1
-227,Naskapi,,,,nask1242,traditional,haynie2019modern,features,Fig. 1
-228,Nass-Gitksan,,,,gitx1241,traditional,haynie2019modern,features,Fig. 1
-229,Navajo,,,,nava1243,traditional,haynie2019modern,features,Fig. 1
-230,Nawathinehena,,,,nawa1259,traditional,haynie2019modern,features,Fig. 1
-231,Neutral Iroquoian,,,,nort2947,traditional,haynie2019modern,features,Fig. 1
-232,Nez Perce,,,,nezp1238,traditional,haynie2019modern,features,Fig. 1
-233,Ngäbere,,,,ngab1239,traditional,haynie2019modern,features,Fig. 1
-234,Nicola,,,,nico1265,traditional,haynie2019modern,features,Fig. 1
-235,Nisenan,,,,nise1244,traditional,haynie2019modern,features,Fig. 1
-236,Nooksack,,,,nook1247,traditional,haynie2019modern,features,Fig. 1
-237,North Alaskan Inupiatun,,,,nort2943,traditional,haynie2019modern,features,Fig. 1
-238,North Slavey,,,,nort2942,traditional,haynie2019modern,features,Fig. 1
-239,Northeastern Pomo,,,,nort2967,traditional,haynie2019modern,features,Fig. 1
-240,"NorthernPaiute",,,,nort2954,traditional,haynie2019modern,features,Fig. 1
-241,Northern Alta Mixtec,,,,nort3199,traditional,haynie2019modern,features,Fig. 1
-242,Northern Baja Mixtec,,,,nort3200,traditional,haynie2019modern,features,Fig. 1
-243,Northern Core Zapotec,,,,nort2987,traditional,haynie2019modern,features,Fig. 1
-244,Northern Ohlone,,,,nort2969,traditional,haynie2019modern,features,Fig. 1
-245,Northern Pomo,,,,nort2966,traditional,haynie2019modern,features,Fig. 1
-246,Northern Popolocan,,,,popo1294,traditional,haynie2019modern,features,Fig. 1
-247,Northern Puebla Nahuatl,,,,nort2957,traditional,haynie2019modern,features,Fig. 1
-248,Northern Sierra Miwok,,,,nort2968,traditional,haynie2019modern,features,Fig. 1
-249,Northern Straits,,,,stra1244,traditional,haynie2019modern,features,Fig. 1
-250,Northern Tepehuan,,,,nort2959,traditional,haynie2019modern,features,Fig. 1
-251,Northern Tutchone,,,,nort2941,traditional,haynie2019modern,features,Fig. 1
-252,Northern Yokuts,,,,yoku1256,traditional,haynie2019modern,features,Fig. 1
-253,Northern Yukian,,,,yuki1243,traditional,haynie2019modern,features,Fig. 1
-254,Nottoway,,,,nott1246,traditional,haynie2019modern,features,Fig. 1
-255,Nuu-chah-nulth,,,,nuuc1236,traditional,haynie2019modern,features,Fig. 1
-256,Oaxaca Mixe,,,,oaxa1241,traditional,haynie2019modern,features,Fig. 1
-257,Obispeño,,,,obis1242,traditional,haynie2019modern,features,Fig. 1
-258,Ofo,,,,ofoo1242,traditional,haynie2019modern,features,Fig. 1
-259,Okanagan,,,,okan1243,traditional,haynie2019modern,features,Fig. 1
-260,Oluta Popoluca,,,,olut1240,traditional,haynie2019modern,features,Fig. 1
-261,"Omaha-Ponca",,,,omah1247,traditional,haynie2019modern,features,Fig. 1
-262,Oneida,,,,onei1249,traditional,haynie2019modern,features,Fig. 1
-263,Onondaga,,,,onon1246,traditional,haynie2019modern,features,Fig. 1
-264,Opata,,,,opat1246,traditional,haynie2019modern,features,Fig. 1
-265,Opelousa,,,,,traditional,haynie2019modern,features,Fig. 1
-266,Osage,,,,osag1243,traditional,haynie2019modern,features,Fig. 1
-267,Otomian,,,,otom1297,traditional,haynie2019modern,features,Fig. 1
-268,Ottawa,,,,otta1242,traditional,haynie2019modern,features,Fig. 1
-269,Pacific Gulf Yupik,,,,paci1278,traditional,haynie2019modern,features,Fig. 1
-270,Paipai,,,,paip1241,traditional,haynie2019modern,features,Fig. 1
-271,Pakana,,,,,traditional,haynie2019modern,features,Fig. 1
-272,Palewyami Yokuts,,,,pale1254,traditional,haynie2019modern,features,Fig. 1
-273,Pame,,,,nort2984,traditional,haynie2019modern,features,Fig. 1
-274,Panamint,,,,pana1305,traditional,haynie2019modern,features,Fig. 1
-275,Patwin,,,,patw1250,traditional,haynie2019modern,features,Fig. 1
-276,Pawnee,,,,pawn1254,traditional,haynie2019modern,features,Fig. 1
-277,Pech,,,,pech1241,traditional,haynie2019modern,features,Fig. 1
-278,Pensacola,,,,,traditional,haynie2019modern,features,Fig. 1
-279,Pentlach,,,,pent1242,traditional,haynie2019modern,features,Fig. 1
-280,Pericú,,,,peri1250,traditional,haynie2019modern,features,Fig. 1
-281,Pima Bajo,,,,pima1248,traditional,haynie2019modern,features,Fig. 1
-282,Pinome,,,,,traditional,haynie2019modern,features,Fig. 1
-283,Pipil,,,,pipi1250,traditional,haynie2019modern,features,Fig. 1
-284,Piro,,,,piro1248,traditional,haynie2019modern,features,Fig. 1
-285,Plains Cree,,,,plai1258,traditional,haynie2019modern,features,Fig. 1
-286,Plains Miwok,,,,plai1259,traditional,haynie2019modern,features,Fig. 1
-287,Pochutec,,,,poch1244,traditional,haynie2019modern,features,Fig. 1
-288,Poqom,,,,poco1241,traditional,haynie2019modern,features,Fig. 1
-289,Potawatomi,,,,pota1247,traditional,haynie2019modern,features,Fig. 1
-290,Powhatan,,,,powh1243,traditional,haynie2019modern,features,Fig. 1
-291,Purepecha,,,,pure1242,traditional,haynie2019modern,features,Fig. 1
-292,Purismeño,,,,puri1259,traditional,haynie2019modern,features,Fig. 1
-293,Q'anjob'al,,,,qanj1241,traditional,haynie2019modern,features,Fig. 1
-294,Quapaw,,,,quap1242,traditional,haynie2019modern,features,Fig. 1
-295,Quechan,,,,quec1382,traditional,haynie2019modern,features,Fig. 1
-296,Querétaro Otomi,,,,quer1236,traditional,haynie2019modern,features,Fig. 1
-297,Quileute,,,,quil1240,traditional,haynie2019modern,features,Fig. 1
-298,Quinault,,,,quin1251,traditional,haynie2019modern,features,Fig. 1
-299,Quinigua,,,,quin1252,traditional,haynie2019modern,features,Fig. 1
-300,Quiripi,,,,wamp1250,traditional,haynie2019modern,features,Fig. 1
-301,Rama,,,,rama1270,traditional,haynie2019modern,features,Fig. 1
-302,Rio Grande Tewa,,,,tewa1260,traditional,haynie2019modern,features,Fig. 1
-303,Rogue River Athabaskan,,,,tolo1259,traditional,haynie2019modern,features,Fig. 1
-304,Sahaptin-Walla Walla,,,,wall1238,traditional,haynie2019modern,features,Fig. 1
-305,Salinan,,,,sali1253,traditional,haynie2019modern,features,Fig. 1
-306,Salteaux,,,,west1510,traditional,haynie2019modern,features,Fig. 1
-307,San Francisco Matlatzinca,,,,sanf1262,traditional,haynie2019modern,features,Fig. 1
-308,Sarcee,,,,sars1236,traditional,haynie2019modern,features,Fig. 1
-309,Sayula Popoluca,,,,sayu1241,traditional,haynie2019modern,features,Fig. 1
-310,Sechelt,,,,sech1246,traditional,haynie2019modern,features,Fig. 1
-311,Sekani,,,,seka1250,traditional,haynie2019modern,features,Fig. 1
-312,Seneca,,,,sene1264,traditional,haynie2019modern,features,Fig. 1
-313,Seri,,,,seri1257,traditional,haynie2019modern,features,Fig. 1
-314,Serrano,,,,serr1255,traditional,haynie2019modern,features,Fig. 1
-315,Severn Ojibwa,,,,seve1240,traditional,haynie2019modern,features,Fig. 1
-316,Seward Peninsula Inupiatun,,,,nort2945,traditional,haynie2019modern,features,Fig. 1
-317,Shawnee,,,,shaw1249,traditional,haynie2019modern,features,Fig. 1
-318,Shoshoni,,,,,traditional,haynie2019modern,features,Fig. 1
-319,Shuswap,,,,shus1248,traditional,haynie2019modern,features,Fig. 1
-320,Siksika,,,,siks1238,traditional,haynie2019modern,features,Fig. 1
-321,Sipacapense,,,,sipa1247,traditional,haynie2019modern,features,Fig. 1
-322,Siuslaw,,,,sius1254,traditional,haynie2019modern,features,Fig. 1
-323,Slavey,,,,sout2959,traditional,haynie2019modern,features,Fig. 1
-324,Solano,,,,sanf1266,traditional,haynie2019modern,features,Fig. 1
-325,Southern Baja Mixtec,,,,mixt1427,traditional,haynie2019modern,features,Fig. 1
-326,Southern Core Zapotec,,,,sout3003,traditional,haynie2019modern,features,Fig. 1
-327,Southern Ohlone,,,,sout2986,traditional,haynie2019modern,features,Fig. 1
-328,Southern Pomo,,,,sout2984,traditional,haynie2019modern,features,Fig. 1
-329,Southern Sierra Miwok ,,,,sout2985,traditional,haynie2019modern,features,Fig. 1
-330,Southern Tepehuan,,,,sout2977,traditional,haynie2019modern,features,Fig. 1
-331,Southern Tiwa,,,,sout2961,traditional,haynie2019modern,features,Fig. 1
-332,Southern Tutchone,,,,sout2957,traditional,haynie2019modern,features,Fig. 1
-333,Spokane,,,,spok1245,traditional,haynie2019modern,features,Fig. 1
-334,Squamish,,,,squa1248,traditional,haynie2019modern,features,Fig. 1
-335,Stoney,,,,ston1242,traditional,haynie2019modern,features,Fig. 1
-336,Subtiaba,,,,subt1250,traditional,haynie2019modern,features,Fig. 1
-337,Susquehannock,,,,susq1241,traditional,haynie2019modern,features,Fig. 1
-338,Swampy Cree,,,,swam1239,traditional,haynie2019modern,features,Fig. 1
-339,Tabasco Chontal,,,,taba1266,traditional,haynie2019modern,features,Fig. 1
-340,Tagish,,,,tagi1240,traditional,haynie2019modern,features,Fig. 1
-341,Tahltan,,,,tahl1239,traditional,haynie2019modern,features,Fig. 1
-342,Tahue,,,,,traditional,haynie2019modern,features,Fig. 1
-343,Takelma,,,,take1257,traditional,haynie2019modern,features,Fig. 1
-344,Tanacross,,,,tana1290,traditional,haynie2019modern,features,Fig. 1
-345,Tanaina,,,,tana1289,traditional,haynie2019modern,features,Fig. 1
-346,Taos,,,,nort1550,traditional,haynie2019modern,features,Fig. 1
-347,Tapachultec,,,,tapa1260,traditional,haynie2019modern,features,Fig. 1
-348,Tarahumara,,,,tara1321,traditional,haynie2019modern,features,Fig. 1
-349,Tataviam,,,,serr1254,traditional,haynie2019modern,features,Fig. 1
-350,Tawasa,,,,timu1245,traditional,haynie2019modern,features,Fig. 1
-351,Tecoxquin,,,,,traditional,haynie2019modern,features,Fig. 1
-352,Tektiteko,,,,tekt1235,traditional,haynie2019modern,features,Fig. 1
-353,Tekwexe,,,,,traditional,haynie2019modern,features,Fig. 1
-354,Temori,,,,,traditional,haynie2019modern,features,Fig. 1
-355,Tenino,,,,teni1238,traditional,haynie2019modern,features,Fig. 1
-356,Tepecano,,,,tepe1278,traditional,haynie2019modern,features,Fig. 1
-357,Tepehua,,,,tepe1243,traditional,haynie2019modern,features,Fig. 1
-358,Tequesta,,,,,traditional,haynie2019modern,features,Fig. 1
-359,Teribe,,,,teri1250,traditional,haynie2019modern,features,Fig. 1
-360,Texistepec Popoluca,,,,texi1237,traditional,haynie2019modern,features,Fig. 1
-361,Tilapa Otomi,,,,tila1239,traditional,haynie2019modern,features,Fig. 1
-362,Tillamook,,,,till1254,traditional,haynie2019modern,features,Fig. 1
-363,Tipai,,,,kumi1248,traditional,haynie2019modern,features,Fig. 1
-364,Tlingit,,,,tlin1245,traditional,haynie2019modern,features,Fig. 1
-365,Toboso,,,,,traditional,haynie2019modern,features,Fig. 1
-366,Tocobaga,,,,,traditional,haynie2019modern,features,Fig. 1
-367,Tohono O'odham,,,,toho1245,traditional,haynie2019modern,features,Fig. 1
-368,Tojolabal,,,,tojo1241,traditional,haynie2019modern,features,Fig. 1
-369,Tol,,,,toll1241,traditional,haynie2019modern,features,Fig. 1
-370,Tolimeco,,,,,traditional,haynie2019modern,features,Fig. 1
-371,Tongva,,,,tong1329,traditional,haynie2019modern,features,Fig. 1
-372,Tonkawa,,,,tonk1249,traditional,haynie2019modern,features,Fig. 1
-373,Totonac,,,,toto1252,traditional,haynie2019modern,features,Fig. 1
-374,Totorame,,,,,traditional,haynie2019modern,features,Fig. 1
-375,Towa,,,,jeme1245,traditional,haynie2019modern,features,Fig. 1
-376,Trique,,,,triq1251,traditional,haynie2019modern,features,Fig. 1
-377,Tsetsaut,,,,tset1236,traditional,haynie2019modern,features,Fig. 1
-378,Tubatulabal,,,,tuba1278,traditional,haynie2019modern,features,Fig. 1
-379,Tule-Kaweah Yokuts,,,,tule1245,traditional,haynie2019modern,features,Fig. 1
-380,Tunica,,,,tuni1252,traditional,haynie2019modern,features,Fig. 1
-381,"Tuscarora",,,,tusc1257,traditional,haynie2019modern,features,Fig. 1
-382,Tutelo-Saponi,,,,tute1247,traditional,haynie2019modern,features,Fig. 1
-383,Twana,,,,twan1247,traditional,haynie2019modern,features,Fig. 1
-384,Tz'utujil,,,,tzut1248,traditional,haynie2019modern,features,Fig. 1
-385,Tzeltal,,,,tzel1254,traditional,haynie2019modern,features,Fig. 1
-386,Tzotzil,,,,tzot1259,traditional,haynie2019modern,features,Fig. 1
-387,Ulwa,,,,ulwa1239,traditional,haynie2019modern,features,Fig. 1
-388,Umatilla,,,,umat1237,traditional,haynie2019modern,features,Fig. 1
-389,Unami Delaware,,,,unam1242,traditional,haynie2019modern,features,Fig. 1
-390,Upper Chehalis,,,,uppe1439,traditional,haynie2019modern,features,Fig. 1
-391,Upper Kuskokwim,,,,uppe1438,traditional,haynie2019modern,features,Fig. 1
-392,Upper Tanana,,,,uppe1437,traditional,haynie2019modern,features,Fig. 1
-393,Upper Umpqua,,,,uppe1436,traditional,haynie2019modern,features,Fig. 1
-394,Uspanteco,,,,uspa1245,traditional,haynie2019modern,features,Fig. 1
-395,Ute-Southern Paiute,,,,utes1238,traditional,haynie2019modern,features,Fig. 1
-396,Ventureño,,,,vent1242,traditional,haynie2019modern,features,Fig. 1
-397,Wampanoag,,,,wamp1249,traditional,haynie2019modern,features,Fig. 1
-398,Wappo,,,,wapp1239,traditional,haynie2019modern,features,Fig. 1
-399,Wasco,,,,wasc1239,traditional,haynie2019modern,features,Fig. 1
-400,Washo,,,,wash1253,traditional,haynie2019modern,features,Fig. 1
-401,Wenro,,,,wenr1236,traditional,haynie2019modern,features,Fig. 1
-402,Western Abenaki,,,,west2630,traditional,haynie2019modern,features,Fig. 1
-403,Western Apache,,,,west2615,traditional,haynie2019modern,features,Fig. 1
-404,Western Canadian Inuktitut,,,,west2618,traditional,haynie2019modern,features,Fig. 1
-405,Western Durango Nahuatl,,,,west2778,traditional,haynie2019modern,features,Fig. 1
-406,Western Zapotec,,,,west2645,traditional,haynie2019modern,features,Fig. 1
-407,Wichita,,,,wich1260,traditional,haynie2019modern,features,Fig. 1
-408,Wintu,,,,wint1259,traditional,haynie2019modern,features,Fig. 1
-409,Wiyot,,,,wiyo1248,traditional,haynie2019modern,features,Fig. 1
-410,Woccon,,,,wocc1242,traditional,haynie2019modern,features,Fig. 1
-411,Woods Cree,,,,wood1236,traditional,haynie2019modern,features,Fig. 1
-412,Xinca,,,,xinc1237,traditional,haynie2019modern,features,Fig. 1
-413,Xixime,,,,,traditional,haynie2019modern,features,Fig. 1
-414,Yakama,,,,yaki1237,traditional,haynie2019modern,features,Fig. 1
-415,Yamasee,,,,yama1265,traditional,haynie2019modern,features,Fig. 1
-416,Yana,,,,yana1271,traditional,haynie2019modern,features,Fig. 1
-417,Yaqui,,,,yaqu1251,traditional,haynie2019modern,features,Fig. 1
-418,Yucatec Maya,,,,yuca1254,traditional,haynie2019modern,features,Fig. 1
-419,Yuchi,,,,yuch1247,traditional,haynie2019modern,features,Fig. 1
-420,Yurok,,,,yuro1248,traditional,haynie2019modern,features,Fig. 1
-421,Zacateco,,,,,traditional,haynie2019modern,features,Fig. 1
-422,Zuni,,,,zuni1245,traditional,haynie2019modern,features,Fig. 1
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+fig1,Fig. 1,Languages of North America - Time of European Contact,,,,,haynie2019modern,,map,
+1,Acaxee,,,,cahi1243,traditional,haynie2019modern,features,feature,fig1
+2,Achumawi,,,,achu1247,traditional,haynie2019modern,features,feature,fig1
+3,Acoma,,,,west2632,traditional,haynie2019modern,features,feature,fig1
+4,Adai,,,,adai1235,traditional,haynie2019modern,features,feature,fig1
+5,Ahtna,,,,ahte1237,traditional,haynie2019modern,features,feature,fig1
+6,Ais,,,,,traditional,haynie2019modern,features,feature,fig1
+7,Akimel O'odham,,,,akim1239,traditional,haynie2019modern,features,feature,fig1
+8,Alabama,,,,alab1237,traditional,haynie2019modern,features,feature,fig1
+9,Alafay,,,,,traditional,haynie2019modern,features,feature,fig1
+10,Aleut,,,,aleu1260,traditional,haynie2019modern,features,feature,fig1
+11,Algonquin,,,,algo1255,traditional,haynie2019modern,features,feature,fig1
+12,Amuzgoan,,,,amuz1254,traditional,haynie2019modern,features,feature,fig1
+13,Apalachee,,,,apal1237,traditional,haynie2019modern,features,feature,fig1
+14,Aranama,,,,aran1265,traditional,haynie2019modern,features,feature,fig1
+15,Arapaho,,,,arap1274,traditional,haynie2019modern,features,feature,fig1
+16,Arikara,,,,arik1262,traditional,haynie2019modern,features,feature,fig1
+17,Assiniboine,,,,assi1247,traditional,haynie2019modern,features,feature,fig1
+18,Atakapa,,,,atak1252,traditional,haynie2019modern,features,feature,fig1
+19,Atikamekw,,,,atik1240,traditional,haynie2019modern,features,feature,fig1
+20,Atsugewi,,,,atsu1245,traditional,haynie2019modern,features,feature,fig1
+21,Atzingo Matlatzinca,,,,atzi1235,traditional,haynie2019modern,features,feature,fig1
+22,Avoyel,,,,,traditional,haynie2019modern,features,feature,fig1
+23,Babine,,,,babi1235,traditional,haynie2019modern,features,feature,fig1
+24,Barbareño,,,,barb1263,traditional,haynie2019modern,features,feature,fig1
+25,Beaver,,,,beav1236,traditional,haynie2019modern,features,feature,fig1
+26,Bella Coola,,,,bell1243,traditional,haynie2019modern,features,feature,fig1
+27,Bidai,,,,bida1238,traditional,haynie2019modern,features,feature,fig1
+28,Biloxi,,,,bilo1248,traditional,haynie2019modern,features,feature,fig1
+29,Boruca,,,,boru1252,traditional,haynie2019modern,features,feature,fig1
+30,Bribri,,,,brib1243,traditional,haynie2019modern,features,feature,fig1
+31,Buena Vista Yokuts,,,,buen1244,traditional,haynie2019modern,features,feature,fig1
+32,Buglere,,,,bugl1243,traditional,haynie2019modern,features,feature,fig1
+33,Cabécar,,,,cabe1245,traditional,haynie2019modern,features,feature,fig1
+34,Cacaopera,,,,caca1247,traditional,haynie2019modern,features,feature,fig1
+35,Caddo,,,,cadd1256,traditional,haynie2019modern,features,feature,fig1
+36,Cahuilla,,,,cahu1264,traditional,haynie2019modern,features,feature,fig1
+37,Calusa,,,,calu1239,traditional,haynie2019modern,features,feature,fig1
+38,Carizo,,,,,traditional,haynie2019modern,features,feature,fig1
+39,Carolina Algonquian,,,,caro1243,traditional,haynie2019modern,features,feature,fig1
+40,Carrier,,,,carr1249,traditional,haynie2019modern,features,feature,fig1
+41,Catawba,,,,cata1286,traditional,haynie2019modern,features,feature,fig1
+42,Cayuse,,,,cayu1241,traditional,haynie2019modern,features,feature,fig1
+43,Central Alaskan Yupik,,,,cent2127,traditional,haynie2019modern,features,feature,fig1
+44,Central Baja Mixtec,,,,cent2266,traditional,haynie2019modern,features,feature,fig1
+45,Central Core Zapotec,,,,cent2146,traditional,haynie2019modern,features,feature,fig1
+46,Central Mazahua,,,,cent2144,traditional,haynie2019modern,features,feature,fig1
+47,Central Nahuatl,,,,cent2258,traditional,haynie2019modern,features,feature,fig1
+48,Central Sierra Miwok,,,,cent2140,traditional,haynie2019modern,features,feature,fig1
+49,Central Southern Ojibwa,,,,chip1241,traditional,haynie2019modern,features,feature,fig1
+50,Chacato,,,,,traditional,haynie2019modern,features,feature,fig1
+51,Chatino,,,,chat1268,traditional,haynie2019modern,features,feature,fig1
+52,Chemakum,,,,chim1310,traditional,haynie2019modern,features,feature,fig1
+53,Cherokee,,,,cher1273,traditional,haynie2019modern,features,feature,fig1
+54,Cheyenne,,,,chey1247,traditional,haynie2019modern,features,feature,fig1
+55,Chiapanec,,,,chia1262,traditional,haynie2019modern,features,feature,fig1
+56,Chiapas Zoque,,,,chia1261,traditional,haynie2019modern,features,feature,fig1
+57,Chickasaw,,,,chic1270,traditional,haynie2019modern,features,feature,fig1
+58,Chicomuceltec,,,,chic1271,traditional,haynie2019modern,features,feature,fig1
+59,Chilcotin,,,,chil1280,traditional,haynie2019modern,features,feature,fig1
+60,Chinantecan,,,,chin1484,traditional,haynie2019modern,features,feature,fig1
+61,Chipewyan,,,,chip1261,traditional,haynie2019modern,features,feature,fig1
+62,Chisca,,,,,traditional,haynie2019modern,features,feature,fig1
+63,Chitimacha,,,,chit1248,traditional,haynie2019modern,features,feature,fig1
+64,Chochotec,,,,choc1279,traditional,haynie2019modern,features,feature,fig1
+65,Choctaw,,,,choc1276,traditional,haynie2019modern,features,feature,fig1
+66,Chol,,,,chol1282,traditional,haynie2019modern,features,feature,fig1
+67,Cholti,,,,chol1283,traditional,haynie2019modern,features,feature,fig1
+68,Chortí,,,,chor1273,traditional,haynie2019modern,features,feature,fig1
+69,Chuj,,,,chuj1250,traditional,haynie2019modern,features,feature,fig1
+70,Chumbia,,,,,traditional,haynie2019modern,features,feature,fig1
+71,Clallam,,,,clal1241,traditional,haynie2019modern,features,feature,fig1
+72,Clatskanie-Kwalhioqua,,,,kwal1258,traditional,haynie2019modern,features,feature,fig1
+73,Coahuilteco,,,,coah1252,traditional,haynie2019modern,features,feature,fig1
+74,Coast Miwok,,,,coas1301,traditional,haynie2019modern,features,feature,fig1
+75,Coast Tsimshian,,,,coas1300,traditional,haynie2019modern,features,feature,fig1
+76,Coatepec Nahuatl,,,,coat1240,traditional,haynie2019modern,features,feature,fig1
+77,Coca,,,,,traditional,haynie2019modern,features,feature,fig1
+78,Cochimi,,,,coch1272,traditional,haynie2019modern,features,feature,fig1
+79,Cocopa,,,,coco1261,traditional,haynie2019modern,features,feature,fig1
+80,Coeur d' Alene,,,,coeu1236,traditional,haynie2019modern,features,feature,fig1
+81,Columbia-Wenatchi,,,,colu1241,traditional,haynie2019modern,features,feature,fig1
+82,Comanche,,,,coma1245,traditional,haynie2019modern,features,feature,fig1
+83,Comanito,,,,,traditional,haynie2019modern,features,feature,fig1
+84,Comecrudan,,,,come1251,traditional,haynie2019modern,features,feature,fig1
+85,Comox,,,,como1259,traditional,haynie2019modern,features,feature,fig1
+86,Concho,,,,conc1237,traditional,haynie2019modern,features,feature,fig1
+87,Cora,,,,cora1260,traditional,haynie2019modern,features,feature,fig1
+88,Cotoname,,,,coto1248,traditional,haynie2019modern,features,feature,fig1
+89,Cowlitz,,,,cowl1242,traditional,haynie2019modern,features,feature,fig1
+90,Creek,,,,cree1270,traditional,haynie2019modern,features,feature,fig1
+91,Crow,,,,crow1244,traditional,haynie2019modern,features,feature,fig1
+92,Cuicatec,,,,cuic1234,traditional,haynie2019modern,features,feature,fig1
+93,Cuitlatec,,,,cuit1236,traditional,haynie2019modern,features,feature,fig1
+94,Cusabo,,,,cusa1237,traditional,haynie2019modern,features,feature,fig1
+95,Dakota,,,,dako1258,traditional,haynie2019modern,features,feature,fig1
+96,Degexit'an,,,,dege1248,traditional,haynie2019modern,features,feature,fig1
+97,Ditidaht,,,,diti1235,traditional,haynie2019modern,features,feature,fig1
+98,Dogrib,,,,dogr1252,traditional,haynie2019modern,features,feature,fig1
+99,Dorasque,,,,dora1242,traditional,haynie2019modern,features,feature,fig1
+100,East Cree,,,,nort1552,traditional,haynie2019modern,features,feature,fig1
+101,Eastern Abenaki,,,,east2544,traditional,haynie2019modern,features,feature,fig1
+102,Eastern Canadian Inuktitut,,,,east2534,traditional,haynie2019modern,features,feature,fig1
+103,Eastern Durango Nahuatl,,,,east2695,traditional,haynie2019modern,features,feature,fig1
+104,Eastern Highland Otomi,,,,east2556,traditional,haynie2019modern,features,feature,fig1
+105,Eastern Keres,,,,east1472,traditional,haynie2019modern,features,feature,fig1
+106,Eastern Nahuatl,,,,east2720,traditional,haynie2019modern,features,feature,fig1
+107,Eastern Ojibwa,,,,east2542,traditional,haynie2019modern,features,feature,fig1
+108,Eastern Pomo,,,,east2545,traditional,haynie2019modern,features,feature,fig1
+109,Eel River Athabaskan,,,,wail1244,traditional,haynie2019modern,features,feature,fig1
+110,Esselen,,,,esse1238,traditional,haynie2019modern,features,feature,fig1
+111,Eudeve,,,,eude1234,traditional,haynie2019modern,features,feature,fig1
+112,Eyak,,,,eyak1241,traditional,haynie2019modern,features,feature,fig1
+113,Eyeish,,,,,traditional,haynie2019modern,features,feature,fig1
+114,Fox,,,,mesk1242,traditional,haynie2019modern,features,feature,fig1
+115,Galice,,,,gali1261,traditional,haynie2019modern,features,feature,fig1
+116,Gros Ventre,,,,gros1243,traditional,haynie2019modern,features,feature,fig1
+117,Guachichil,,,,,traditional,haynie2019modern,features,feature,fig1
+118,Guaicura,,,,guai1237,traditional,haynie2019modern,features,feature,fig1
+119,Guale,,,,gual1239,traditional,haynie2019modern,features,feature,fig1
+120,Guarijio,,,,huar1255,traditional,haynie2019modern,features,feature,fig1
+121,Guasave,,,,,traditional,haynie2019modern,features,feature,fig1
+122,Guazoco-Tocaste,,,,,traditional,haynie2019modern,features,feature,fig1
+123,Gwich'in,,,,gwic1235,traditional,haynie2019modern,features,feature,fig1
+124,Haida,,,,haid1248,traditional,haynie2019modern,features,feature,fig1
+125,Haisla,,,,hais1244,traditional,haynie2019modern,features,feature,fig1
+126,Halkomelem,,,,halk1245,traditional,haynie2019modern,features,feature,fig1
+127,Han,,,,hann1241,traditional,haynie2019modern,features,feature,fig1
+128,Havasupai-Walapai-Yavapai,,,,hava1248,traditional,haynie2019modern,features,feature,fig1
+129,Heiltsuk-Oowekyala,,,,heil1246,traditional,haynie2019modern,features,feature,fig1
+130,Hidatsa,,,,hida1246,traditional,haynie2019modern,features,feature,fig1
+131,Highland Zoque,,,,zoqu1261,traditional,haynie2019modern,features,feature,fig1
+132,Ho-Chunk,,,,hoch1243,traditional,haynie2019modern,features,feature,fig1
+133,Holikachuk,,,,holi1241,traditional,haynie2019modern,features,feature,fig1
+134,Hopi,,,,hopi1249,traditional,haynie2019modern,features,feature,fig1
+135,Houma,,,,,traditional,haynie2019modern,features,feature,fig1
+136,Huastec,,,,huas1242,traditional,haynie2019modern,features,feature,fig1
+137,Huavean,,,,huav1256,traditional,haynie2019modern,features,feature,fig1
+138,Huichol,,,,huic1243,traditional,haynie2019modern,features,feature,fig1
+139,Huite,,,,opat1247,traditional,haynie2019modern,features,feature,fig1
+140,Hupa,,,,hupa1239,traditional,haynie2019modern,features,feature,fig1
+141,Huron,,,,wyan1247,traditional,haynie2019modern,features,feature,fig1
+142,Ineseño,,,,ines1240,traditional,haynie2019modern,features,feature,fig1
+143,Interior Chumash,,,,cent2139,traditional,haynie2019modern,features,feature,fig1
+144,Iowa-Otoe,,,,iowa1245,traditional,haynie2019modern,features,feature,fig1
+145,Ipai,,,,ipai1240,traditional,haynie2019modern,features,feature,fig1
+146,Island Chumash,,,,cruz1243,traditional,haynie2019modern,features,feature,fig1
+147,Itzá,,,,itza1241,traditional,haynie2019modern,features,feature,fig1
+148,Ixil,,,,ixil1251,traditional,haynie2019modern,features,feature,fig1
+149,Ixtenco Otomi,,,,ixte1237,traditional,haynie2019modern,features,feature,fig1
+150,Jaega,,,,,traditional,haynie2019modern,features,feature,fig1
+151,Jalisco Otomi,,,,otom1300,traditional,haynie2019modern,features,feature,fig1
+152,Jicarilla,,,,jica1244,traditional,haynie2019modern,features,feature,fig1
+153,Jumano,,,,juma1248,traditional,haynie2019modern,features,feature,fig1
+154,K'iche',,,,kich1262,traditional,haynie2019modern,features,feature,fig1
+155,Kalapuya,,,,kala1400,traditional,haynie2019modern,features,feature,fig1
+156,Kalispel,,,,kali1309,traditional,haynie2019modern,features,feature,fig1
+157,Kansa,,,,kans1243,traditional,haynie2019modern,features,feature,fig1
+158,Kaqchikel,,,,kaqc1270,traditional,haynie2019modern,features,feature,fig1
+159,Karankawa,,,,kara1289,traditional,haynie2019modern,features,feature,fig1
+160,Karkin,,,,kark1259,traditional,haynie2019modern,features,feature,fig1
+161,Karuk,,,,karo1304,traditional,haynie2019modern,features,feature,fig1
+162,Kaska,,,,kask1239,traditional,haynie2019modern,features,feature,fig1
+163,Kaskan,,,,,traditional,haynie2019modern,features,feature,fig1
+164,Kathalmet,,,,kath1253,traditional,haynie2019modern,features,feature,fig1
+165,Kato,,,,kato1244,traditional,haynie2019modern,features,feature,fig1
+166,"Kawaiisu",,,,kawa1283,traditional,haynie2019modern,features,feature,fig1
+167,Kekchí,,,,kekc1242,traditional,haynie2019modern,features,feature,fig1
+168,Kickapoo,,,,kick1244,traditional,haynie2019modern,features,feature,fig1
+169,Kiliwa,,,,kili1268,traditional,haynie2019modern,features,feature,fig1
+170,Kiowa,,,,kiow1266,traditional,haynie2019modern,features,feature,fig1
+171,Kiowa Apache,,,,kiow1264,traditional,haynie2019modern,features,feature,fig1
+172,Kitsai,,,,kits1249,traditional,haynie2019modern,features,feature,fig1
+173,Klamath-Modoc,,,,klam1254,traditional,haynie2019modern,features,feature,fig1
+174,Koasati,,,,koas1236,traditional,haynie2019modern,features,feature,fig1
+175,Konkow,,,,nort2951,traditional,haynie2019modern,features,feature,fig1
+176,Konomihu,,,,kono1241,traditional,haynie2019modern,features,feature,fig1
+177,Koyukon,,,,koyu1237,traditional,haynie2019modern,features,feature,fig1
+178,Kuna,,,,sanb1242,traditional,haynie2019modern,features,feature,fig1
+179,Kwak'wala,,,,kwak1269,traditional,haynie2019modern,features,feature,fig1
+180,Lagunero,,,,,traditional,haynie2019modern,features,feature,fig1
+181,Lakota,,,,lako1247,traditional,haynie2019modern,features,feature,fig1
+182,Laurentian,,,,laur1250,traditional,haynie2019modern,features,feature,fig1
+183,Lenca Honduras,,,,lenc1242,traditional,haynie2019modern,features,feature,fig1
+184,Lenca Salvador,,,,lenc1243,traditional,haynie2019modern,features,feature,fig1
+185,Lillooet,,,,lill1248,traditional,haynie2019modern,features,feature,fig1
+186,Lipan,,,,lipa1241,traditional,haynie2019modern,features,feature,fig1
+187,Loup,,,,loup1243,traditional,haynie2019modern,features,feature,fig1
+188,Lower Chehalis,,,,lowe1427,traditional,haynie2019modern,features,feature,fig1
+189,Lower Chinook,,,,chin1286,traditional,haynie2019modern,features,feature,fig1
+190,Lower Tanana,,,,lowe1425,traditional,haynie2019modern,features,feature,fig1
+191,Lowland Oaxaca Chontal,,,,lowl1260,traditional,haynie2019modern,features,feature,fig1
+192,Luiseño,,,,luis1253,traditional,haynie2019modern,features,feature,fig1
+193,Lushootseed,,,,lush1252,traditional,haynie2019modern,features,feature,fig1
+194,Mahican,,,,mahi1248,traditional,haynie2019modern,features,feature,fig1
+195,Maidu,,,,nort2952,traditional,haynie2019modern,features,feature,fig1
+196,Makah,,,,maka1318,traditional,haynie2019modern,features,feature,fig1
+197,Malicite-Passamaquoddy,,,,male1292,traditional,haynie2019modern,features,feature,fig1
+198,Maléku Jaíka,,,,male1297,traditional,haynie2019modern,features,feature,fig1
+199,Mam,,,,mamm1241,traditional,haynie2019modern,features,feature,fig1
+200,Mandan,,,,mand1446,traditional,haynie2019modern,features,feature,fig1
+201,Mangue,,,,moni1237,traditional,haynie2019modern,features,feature,fig1
+202,Maratino,,,,mara1266,traditional,haynie2019modern,features,feature,fig1
+203,Maricopa,,,,mari1440,traditional,haynie2019modern,features,feature,fig1
+204,Matagalpa,,,,mata1288,traditional,haynie2019modern,features,feature,fig1
+205,Mattole,,,,matt1238,traditional,haynie2019modern,features,feature,fig1
+206,Mayo,,,,mayo1264,traditional,haynie2019modern,features,feature,fig1
+207,Meherrin,,,,mehe1242,traditional,haynie2019modern,features,feature,fig1
+208,Menominee,,,,meno1252,traditional,haynie2019modern,features,feature,fig1
+209,Mephaa,,,,meph1234,traditional,haynie2019modern,features,feature,fig1
+210,Mescalero-Chiricahua,,,,mesc1238,traditional,haynie2019modern,features,feature,fig1
+211,Mezquital Otomi,,,,mezq1235,traditional,haynie2019modern,features,feature,fig1
+212,Miami,,,,nucl1653,traditional,haynie2019modern,features,feature,fig1
+213,Michoacán Nahuatl,,,,mich1245,traditional,haynie2019modern,features,feature,fig1
+214,Micmac,,,,mikm1235,traditional,haynie2019modern,features,feature,fig1
+215,Mikasuki,,,,mika1239,traditional,haynie2019modern,features,feature,fig1
+216,"Mohawk",,,,moha1258,traditional,haynie2019modern,features,feature,fig1
+217,Mohegan-Pequot-Narragansett,,,,mohe1244,traditional,haynie2019modern,features,feature,fig1
+218,Mojave,,,,moha1256,traditional,haynie2019modern,features,feature,fig1
+219,Molala,,,,mola1238,traditional,haynie2019modern,features,feature,fig1
+220,Mono,,,,mono1275,traditional,haynie2019modern,features,feature,fig1
+221,Montagnais,,,,mont1268,traditional,haynie2019modern,features,feature,fig1
+222,Mopán Maya,,,,mopa1243,traditional,haynie2019modern,features,feature,fig1
+223,Munsee Delaware,,,,muns1251,traditional,haynie2019modern,features,feature,fig1
+224,Mískito,,,,misk1235,traditional,haynie2019modern,features,feature,fig1
+225,Nanticoke-Conoy,,,,nant1249,traditional,haynie2019modern,features,feature,fig1
+226,Naolan,,,,naol1234,traditional,haynie2019modern,features,feature,fig1
+227,Naskapi,,,,nask1242,traditional,haynie2019modern,features,feature,fig1
+228,Nass-Gitksan,,,,gitx1241,traditional,haynie2019modern,features,feature,fig1
+229,Navajo,,,,nava1243,traditional,haynie2019modern,features,feature,fig1
+230,Nawathinehena,,,,nawa1259,traditional,haynie2019modern,features,feature,fig1
+231,Neutral Iroquoian,,,,nort2947,traditional,haynie2019modern,features,feature,fig1
+232,Nez Perce,,,,nezp1238,traditional,haynie2019modern,features,feature,fig1
+233,Ngäbere,,,,ngab1239,traditional,haynie2019modern,features,feature,fig1
+234,Nicola,,,,nico1265,traditional,haynie2019modern,features,feature,fig1
+235,Nisenan,,,,nise1244,traditional,haynie2019modern,features,feature,fig1
+236,Nooksack,,,,nook1247,traditional,haynie2019modern,features,feature,fig1
+237,North Alaskan Inupiatun,,,,nort2943,traditional,haynie2019modern,features,feature,fig1
+238,North Slavey,,,,nort2942,traditional,haynie2019modern,features,feature,fig1
+239,Northeastern Pomo,,,,nort2967,traditional,haynie2019modern,features,feature,fig1
+240,"NorthernPaiute",,,,nort2954,traditional,haynie2019modern,features,feature,fig1
+241,Northern Alta Mixtec,,,,nort3199,traditional,haynie2019modern,features,feature,fig1
+242,Northern Baja Mixtec,,,,nort3200,traditional,haynie2019modern,features,feature,fig1
+243,Northern Core Zapotec,,,,nort2987,traditional,haynie2019modern,features,feature,fig1
+244,Northern Ohlone,,,,nort2969,traditional,haynie2019modern,features,feature,fig1
+245,Northern Pomo,,,,nort2966,traditional,haynie2019modern,features,feature,fig1
+246,Northern Popolocan,,,,popo1294,traditional,haynie2019modern,features,feature,fig1
+247,Northern Puebla Nahuatl,,,,nort2957,traditional,haynie2019modern,features,feature,fig1
+248,Northern Sierra Miwok,,,,nort2968,traditional,haynie2019modern,features,feature,fig1
+249,Northern Straits,,,,stra1244,traditional,haynie2019modern,features,feature,fig1
+250,Northern Tepehuan,,,,nort2959,traditional,haynie2019modern,features,feature,fig1
+251,Northern Tutchone,,,,nort2941,traditional,haynie2019modern,features,feature,fig1
+252,Northern Yokuts,,,,yoku1256,traditional,haynie2019modern,features,feature,fig1
+253,Northern Yukian,,,,yuki1243,traditional,haynie2019modern,features,feature,fig1
+254,Nottoway,,,,nott1246,traditional,haynie2019modern,features,feature,fig1
+255,Nuu-chah-nulth,,,,nuuc1236,traditional,haynie2019modern,features,feature,fig1
+256,Oaxaca Mixe,,,,oaxa1241,traditional,haynie2019modern,features,feature,fig1
+257,Obispeño,,,,obis1242,traditional,haynie2019modern,features,feature,fig1
+258,Ofo,,,,ofoo1242,traditional,haynie2019modern,features,feature,fig1
+259,Okanagan,,,,okan1243,traditional,haynie2019modern,features,feature,fig1
+260,Oluta Popoluca,,,,olut1240,traditional,haynie2019modern,features,feature,fig1
+261,"Omaha-Ponca",,,,omah1247,traditional,haynie2019modern,features,feature,fig1
+262,Oneida,,,,onei1249,traditional,haynie2019modern,features,feature,fig1
+263,Onondaga,,,,onon1246,traditional,haynie2019modern,features,feature,fig1
+264,Opata,,,,opat1246,traditional,haynie2019modern,features,feature,fig1
+265,Opelousa,,,,,traditional,haynie2019modern,features,feature,fig1
+266,Osage,,,,osag1243,traditional,haynie2019modern,features,feature,fig1
+267,Otomian,,,,otom1297,traditional,haynie2019modern,features,feature,fig1
+268,Ottawa,,,,otta1242,traditional,haynie2019modern,features,feature,fig1
+269,Pacific Gulf Yupik,,,,paci1278,traditional,haynie2019modern,features,feature,fig1
+270,Paipai,,,,paip1241,traditional,haynie2019modern,features,feature,fig1
+271,Pakana,,,,,traditional,haynie2019modern,features,feature,fig1
+272,Palewyami Yokuts,,,,pale1254,traditional,haynie2019modern,features,feature,fig1
+273,Pame,,,,nort2984,traditional,haynie2019modern,features,feature,fig1
+274,Panamint,,,,pana1305,traditional,haynie2019modern,features,feature,fig1
+275,Patwin,,,,patw1250,traditional,haynie2019modern,features,feature,fig1
+276,Pawnee,,,,pawn1254,traditional,haynie2019modern,features,feature,fig1
+277,Pech,,,,pech1241,traditional,haynie2019modern,features,feature,fig1
+278,Pensacola,,,,,traditional,haynie2019modern,features,feature,fig1
+279,Pentlach,,,,pent1242,traditional,haynie2019modern,features,feature,fig1
+280,Pericú,,,,peri1250,traditional,haynie2019modern,features,feature,fig1
+281,Pima Bajo,,,,pima1248,traditional,haynie2019modern,features,feature,fig1
+282,Pinome,,,,,traditional,haynie2019modern,features,feature,fig1
+283,Pipil,,,,pipi1250,traditional,haynie2019modern,features,feature,fig1
+284,Piro,,,,piro1248,traditional,haynie2019modern,features,feature,fig1
+285,Plains Cree,,,,plai1258,traditional,haynie2019modern,features,feature,fig1
+286,Plains Miwok,,,,plai1259,traditional,haynie2019modern,features,feature,fig1
+287,Pochutec,,,,poch1244,traditional,haynie2019modern,features,feature,fig1
+288,Poqom,,,,poco1241,traditional,haynie2019modern,features,feature,fig1
+289,Potawatomi,,,,pota1247,traditional,haynie2019modern,features,feature,fig1
+290,Powhatan,,,,powh1243,traditional,haynie2019modern,features,feature,fig1
+291,Purepecha,,,,pure1242,traditional,haynie2019modern,features,feature,fig1
+292,Purismeño,,,,puri1259,traditional,haynie2019modern,features,feature,fig1
+293,Q'anjob'al,,,,qanj1241,traditional,haynie2019modern,features,feature,fig1
+294,Quapaw,,,,quap1242,traditional,haynie2019modern,features,feature,fig1
+295,Quechan,,,,quec1382,traditional,haynie2019modern,features,feature,fig1
+296,Querétaro Otomi,,,,quer1236,traditional,haynie2019modern,features,feature,fig1
+297,Quileute,,,,quil1240,traditional,haynie2019modern,features,feature,fig1
+298,Quinault,,,,quin1251,traditional,haynie2019modern,features,feature,fig1
+299,Quinigua,,,,quin1252,traditional,haynie2019modern,features,feature,fig1
+300,Quiripi,,,,wamp1250,traditional,haynie2019modern,features,feature,fig1
+301,Rama,,,,rama1270,traditional,haynie2019modern,features,feature,fig1
+302,Rio Grande Tewa,,,,tewa1260,traditional,haynie2019modern,features,feature,fig1
+303,Rogue River Athabaskan,,,,tolo1259,traditional,haynie2019modern,features,feature,fig1
+304,Sahaptin-Walla Walla,,,,wall1238,traditional,haynie2019modern,features,feature,fig1
+305,Salinan,,,,sali1253,traditional,haynie2019modern,features,feature,fig1
+306,Salteaux,,,,west1510,traditional,haynie2019modern,features,feature,fig1
+307,San Francisco Matlatzinca,,,,sanf1262,traditional,haynie2019modern,features,feature,fig1
+308,Sarcee,,,,sars1236,traditional,haynie2019modern,features,feature,fig1
+309,Sayula Popoluca,,,,sayu1241,traditional,haynie2019modern,features,feature,fig1
+310,Sechelt,,,,sech1246,traditional,haynie2019modern,features,feature,fig1
+311,Sekani,,,,seka1250,traditional,haynie2019modern,features,feature,fig1
+312,Seneca,,,,sene1264,traditional,haynie2019modern,features,feature,fig1
+313,Seri,,,,seri1257,traditional,haynie2019modern,features,feature,fig1
+314,Serrano,,,,serr1255,traditional,haynie2019modern,features,feature,fig1
+315,Severn Ojibwa,,,,seve1240,traditional,haynie2019modern,features,feature,fig1
+316,Seward Peninsula Inupiatun,,,,nort2945,traditional,haynie2019modern,features,feature,fig1
+317,Shawnee,,,,shaw1249,traditional,haynie2019modern,features,feature,fig1
+318,Shoshoni,,,,,traditional,haynie2019modern,features,feature,fig1
+319,Shuswap,,,,shus1248,traditional,haynie2019modern,features,feature,fig1
+320,Siksika,,,,siks1238,traditional,haynie2019modern,features,feature,fig1
+321,Sipacapense,,,,sipa1247,traditional,haynie2019modern,features,feature,fig1
+322,Siuslaw,,,,sius1254,traditional,haynie2019modern,features,feature,fig1
+323,Slavey,,,,sout2959,traditional,haynie2019modern,features,feature,fig1
+324,Solano,,,,sanf1266,traditional,haynie2019modern,features,feature,fig1
+325,Southern Baja Mixtec,,,,mixt1427,traditional,haynie2019modern,features,feature,fig1
+326,Southern Core Zapotec,,,,sout3003,traditional,haynie2019modern,features,feature,fig1
+327,Southern Ohlone,,,,sout2986,traditional,haynie2019modern,features,feature,fig1
+328,Southern Pomo,,,,sout2984,traditional,haynie2019modern,features,feature,fig1
+329,Southern Sierra Miwok ,,,,sout2985,traditional,haynie2019modern,features,feature,fig1
+330,Southern Tepehuan,,,,sout2977,traditional,haynie2019modern,features,feature,fig1
+331,Southern Tiwa,,,,sout2961,traditional,haynie2019modern,features,feature,fig1
+332,Southern Tutchone,,,,sout2957,traditional,haynie2019modern,features,feature,fig1
+333,Spokane,,,,spok1245,traditional,haynie2019modern,features,feature,fig1
+334,Squamish,,,,squa1248,traditional,haynie2019modern,features,feature,fig1
+335,Stoney,,,,ston1242,traditional,haynie2019modern,features,feature,fig1
+336,Subtiaba,,,,subt1250,traditional,haynie2019modern,features,feature,fig1
+337,Susquehannock,,,,susq1241,traditional,haynie2019modern,features,feature,fig1
+338,Swampy Cree,,,,swam1239,traditional,haynie2019modern,features,feature,fig1
+339,Tabasco Chontal,,,,taba1266,traditional,haynie2019modern,features,feature,fig1
+340,Tagish,,,,tagi1240,traditional,haynie2019modern,features,feature,fig1
+341,Tahltan,,,,tahl1239,traditional,haynie2019modern,features,feature,fig1
+342,Tahue,,,,,traditional,haynie2019modern,features,feature,fig1
+343,Takelma,,,,take1257,traditional,haynie2019modern,features,feature,fig1
+344,Tanacross,,,,tana1290,traditional,haynie2019modern,features,feature,fig1
+345,Tanaina,,,,tana1289,traditional,haynie2019modern,features,feature,fig1
+346,Taos,,,,nort1550,traditional,haynie2019modern,features,feature,fig1
+347,Tapachultec,,,,tapa1260,traditional,haynie2019modern,features,feature,fig1
+348,Tarahumara,,,,tara1321,traditional,haynie2019modern,features,feature,fig1
+349,Tataviam,,,,serr1254,traditional,haynie2019modern,features,feature,fig1
+350,Tawasa,,,,timu1245,traditional,haynie2019modern,features,feature,fig1
+351,Tecoxquin,,,,,traditional,haynie2019modern,features,feature,fig1
+352,Tektiteko,,,,tekt1235,traditional,haynie2019modern,features,feature,fig1
+353,Tekwexe,,,,,traditional,haynie2019modern,features,feature,fig1
+354,Temori,,,,,traditional,haynie2019modern,features,feature,fig1
+355,Tenino,,,,teni1238,traditional,haynie2019modern,features,feature,fig1
+356,Tepecano,,,,tepe1278,traditional,haynie2019modern,features,feature,fig1
+357,Tepehua,,,,tepe1243,traditional,haynie2019modern,features,feature,fig1
+358,Tequesta,,,,,traditional,haynie2019modern,features,feature,fig1
+359,Teribe,,,,teri1250,traditional,haynie2019modern,features,feature,fig1
+360,Texistepec Popoluca,,,,texi1237,traditional,haynie2019modern,features,feature,fig1
+361,Tilapa Otomi,,,,tila1239,traditional,haynie2019modern,features,feature,fig1
+362,Tillamook,,,,till1254,traditional,haynie2019modern,features,feature,fig1
+363,Tipai,,,,kumi1248,traditional,haynie2019modern,features,feature,fig1
+364,Tlingit,,,,tlin1245,traditional,haynie2019modern,features,feature,fig1
+365,Toboso,,,,,traditional,haynie2019modern,features,feature,fig1
+366,Tocobaga,,,,,traditional,haynie2019modern,features,feature,fig1
+367,Tohono O'odham,,,,toho1245,traditional,haynie2019modern,features,feature,fig1
+368,Tojolabal,,,,tojo1241,traditional,haynie2019modern,features,feature,fig1
+369,Tol,,,,toll1241,traditional,haynie2019modern,features,feature,fig1
+370,Tolimeco,,,,,traditional,haynie2019modern,features,feature,fig1
+371,Tongva,,,,tong1329,traditional,haynie2019modern,features,feature,fig1
+372,Tonkawa,,,,tonk1249,traditional,haynie2019modern,features,feature,fig1
+373,Totonac,,,,toto1252,traditional,haynie2019modern,features,feature,fig1
+374,Totorame,,,,,traditional,haynie2019modern,features,feature,fig1
+375,Towa,,,,jeme1245,traditional,haynie2019modern,features,feature,fig1
+376,Trique,,,,triq1251,traditional,haynie2019modern,features,feature,fig1
+377,Tsetsaut,,,,tset1236,traditional,haynie2019modern,features,feature,fig1
+378,Tubatulabal,,,,tuba1278,traditional,haynie2019modern,features,feature,fig1
+379,Tule-Kaweah Yokuts,,,,tule1245,traditional,haynie2019modern,features,feature,fig1
+380,Tunica,,,,tuni1252,traditional,haynie2019modern,features,feature,fig1
+381,"Tuscarora",,,,tusc1257,traditional,haynie2019modern,features,feature,fig1
+382,Tutelo-Saponi,,,,tute1247,traditional,haynie2019modern,features,feature,fig1
+383,Twana,,,,twan1247,traditional,haynie2019modern,features,feature,fig1
+384,Tz'utujil,,,,tzut1248,traditional,haynie2019modern,features,feature,fig1
+385,Tzeltal,,,,tzel1254,traditional,haynie2019modern,features,feature,fig1
+386,Tzotzil,,,,tzot1259,traditional,haynie2019modern,features,feature,fig1
+387,Ulwa,,,,ulwa1239,traditional,haynie2019modern,features,feature,fig1
+388,Umatilla,,,,umat1237,traditional,haynie2019modern,features,feature,fig1
+389,Unami Delaware,,,,unam1242,traditional,haynie2019modern,features,feature,fig1
+390,Upper Chehalis,,,,uppe1439,traditional,haynie2019modern,features,feature,fig1
+391,Upper Kuskokwim,,,,uppe1438,traditional,haynie2019modern,features,feature,fig1
+392,Upper Tanana,,,,uppe1437,traditional,haynie2019modern,features,feature,fig1
+393,Upper Umpqua,,,,uppe1436,traditional,haynie2019modern,features,feature,fig1
+394,Uspanteco,,,,uspa1245,traditional,haynie2019modern,features,feature,fig1
+395,Ute-Southern Paiute,,,,utes1238,traditional,haynie2019modern,features,feature,fig1
+396,Ventureño,,,,vent1242,traditional,haynie2019modern,features,feature,fig1
+397,Wampanoag,,,,wamp1249,traditional,haynie2019modern,features,feature,fig1
+398,Wappo,,,,wapp1239,traditional,haynie2019modern,features,feature,fig1
+399,Wasco,,,,wasc1239,traditional,haynie2019modern,features,feature,fig1
+400,Washo,,,,wash1253,traditional,haynie2019modern,features,feature,fig1
+401,Wenro,,,,wenr1236,traditional,haynie2019modern,features,feature,fig1
+402,Western Abenaki,,,,west2630,traditional,haynie2019modern,features,feature,fig1
+403,Western Apache,,,,west2615,traditional,haynie2019modern,features,feature,fig1
+404,Western Canadian Inuktitut,,,,west2618,traditional,haynie2019modern,features,feature,fig1
+405,Western Durango Nahuatl,,,,west2778,traditional,haynie2019modern,features,feature,fig1
+406,Western Zapotec,,,,west2645,traditional,haynie2019modern,features,feature,fig1
+407,Wichita,,,,wich1260,traditional,haynie2019modern,features,feature,fig1
+408,Wintu,,,,wint1259,traditional,haynie2019modern,features,feature,fig1
+409,Wiyot,,,,wiyo1248,traditional,haynie2019modern,features,feature,fig1
+410,Woccon,,,,wocc1242,traditional,haynie2019modern,features,feature,fig1
+411,Woods Cree,,,,wood1236,traditional,haynie2019modern,features,feature,fig1
+412,Xinca,,,,xinc1237,traditional,haynie2019modern,features,feature,fig1
+413,Xixime,,,,,traditional,haynie2019modern,features,feature,fig1
+414,Yakama,,,,yaki1237,traditional,haynie2019modern,features,feature,fig1
+415,Yamasee,,,,yama1265,traditional,haynie2019modern,features,feature,fig1
+416,Yana,,,,yana1271,traditional,haynie2019modern,features,feature,fig1
+417,Yaqui,,,,yaqu1251,traditional,haynie2019modern,features,feature,fig1
+418,Yucatec Maya,,,,yuca1254,traditional,haynie2019modern,features,feature,fig1
+419,Yuchi,,,,yuch1247,traditional,haynie2019modern,features,feature,fig1
+420,Yurok,,,,yuro1248,traditional,haynie2019modern,features,feature,fig1
+421,Zacateco,,,,,traditional,haynie2019modern,features,feature,fig1
+422,Zuni,,,,zuni1245,traditional,haynie2019modern,features,feature,fig1
