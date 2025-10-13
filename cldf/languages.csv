@@ -1,4 +1,9 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+akim1239,Akimel O'odham,,,,akim1239,,7,dialect,Uto-Aztecan,dialects
+coas1300,Coast Tsimshian,,,,coas1300,,75,dialect,Tsimshian,dialects
+kali1309,Kalispel,,,,kali1309,,156,dialect,Salishan,dialects
+nico1265,Nicola Valley Athabaskan,,,,nico1265,,234,dialect,Athabaskan-Eyak-Tlingit,dialects
+nucl1653,Nuclear Miami,,,,nucl1653,,212,dialect,Algic,dialects
 achu1247,Achumawi,,41.0979,-121.191,achu1247,,2,language,Palaihnihan,languages
 adai1235,Adai,,31.6314,-92.0059,adai1235,,4,language,,languages
 ahte1237,Ahtena,,61.7068,-144.889,ahte1237,,5,language,Athabaskan-Eyak-Tlingit,languages
