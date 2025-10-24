@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/haynie2019modern",
             "rdf:type": "prov:Entity",
-            "dc:created": "8612c6b",
+            "dc:created": "65238f1",
             "dc:title": "Repository"
         },
         {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 398,
+            "dc:extent": 397,
             "tableSchema": {
                 "columns": [
                     {
